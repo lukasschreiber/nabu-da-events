@@ -1,0 +1,2670 @@
+[
+    {
+        "uid": "a91e7f41-67e7-4f4f-909d-1f35df923f4a",
+        "dates": [
+            "03.02.2024"
+        ],
+        "time": "10:00 - ca. 14:00 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "14:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz zum Amphibienschutz am Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Vorbereitung der Amphibienwanderung gegenüber Steinbrücker Teich / Oberwaldhaus.",
+        "location": null
+    },
+    {
+        "uid": "706b5ee1-1a63-40a4-a480-41d656561884",
+        "dates": [
+            "16.02.2024"
+        ],
+        "time": "11:00 - 13:30 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": "13:30"
+        },
+        "type": "Familie",
+        "title": "Kinder bauen „Wohnungen für Insekten“",
+        "subtitle": "Ein Angebot des NABU Darmstadt und Menschenskindern",
+        "description": "",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Menschenskinder",
+            "address": "Siemensstraße 3a, Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "1cea0630-8ba0-4c7c-847c-5bfaae0701af",
+        "dates": [
+            "17.02.2024"
+        ],
+        "time": "10:00 - ca. 13:00 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "13:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Pflegeeinsatz auf der Obstwiese des NABU in Messel",
+        "subtitle": null,
+        "description": "Wiesenpflege, Baumschnitt u.a. Aufgaben.",
+        "location": null
+    },
+    {
+        "uid": "15dcbcbc-bd42-4895-b9c1-cf42985b8b39",
+        "dates": [
+            "16.03.2024"
+        ],
+        "time": "10:00 - ca. 11:30 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "11:30"
+        },
+        "type": "Exkursion",
+        "title": "Kröten retten am Steinbrücker Teich",
+        "subtitle": "Amphibienexkursion mit Stefani Klein, NABU.",
+        "description": null,
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "ee7ffa67-7488-44dd-b375-b0aeeb62f875",
+        "dates": [
+            "24.03.2024"
+        ],
+        "time": "7:30 - ca. 10 Uhr",
+        "structuredTime": {
+            "start": "7:30",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Spechte im Ostwald",
+        "subtitle": "Vogelstimmenexkursion mit Philip Berreth, NABU.",
+        "description": "Fernglas-Leihe und Live-Standort für Kurzentschlossene: <a href=\"https://signal.group/#CjQKIHF3Nd7_-l5R_zYBg9aXej-ElroeCJ9jhc0ib0n7dO8NEhCW5KhMykZNBRnmunHjWBKD\">Signal</a>.",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Zoo Vivarium Darmstadt",
+            "address": "Schnampelweg",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "31749a66-5c77-49de-b0ad-25284d76e4ab",
+        "dates": [
+            "06.04.2024",
+            "12.04.2024",
+            "21.04.2024",
+            "01.05.2024",
+            "13.05.2024",
+            "24.05.2024"
+        ],
+        "time": "7:30 - ca. 12 Uhr",
+        "structuredTime": {
+            "start": "7:30",
+            "end": "12:00"
+        },
+        "type": "Exkursion",
+        "title": "Von Vögeln fliegen lernen – Ehemaliger Flugplatz · Griesheimer Düne",
+        "subtitle": "Vogel- und Selbstbeobachtungen mit Philip Berreth, NABU.",
+        "description": "Fernglas-Leihe und Live-Standort für Kurzentschlossene: <a href=\"https://signal.group/#CjQKIHF3Nd7_-l5R_zYBg9aXej-ElroeCJ9jhc0ib0n7dO8NEhCW5KhMykZNBRnmunHjWBKD\">Signal</a>. Für Naturinteressierte: <a href=\"https://beats-and-bones.podigee.io/\">Beats & Bones (Podcast)</a> · Für Selbstinteressierte: <a href=\"https://open.spotify.com/intl-de/album/1GyuuZjoCZCWnnyB3PPWMv\">Konflikte lösen (Hörbuch)</a>",
+        "location": {
+            "prefix": "Bei trockenem Wetter ab/bis",
+            "name": "Kreuzung Lindenstraße / Südring",
+            "address": "64347 Griesheim",
+            "address_url": null
+        }
+    },
+    {
+        "uid": "a64779cf-cbe5-4906-90cb-630f28cc30b6",
+        "dates": [
+            "07.04.2024",
+            "14.04.2024",
+            "19.04.2024",
+            "27.04.2024",
+            "14.05.2024",
+            "25.05.2024"
+        ],
+        "time": "7:30 - ca. 12 Uhr",
+        "structuredTime": {
+            "start": "7:30",
+            "end": "12:00"
+        },
+        "type": "Exkursion",
+        "title": "Von Vögeln fliegen lernen – Oberfeld · Ostwald · Steinbrücker Teich",
+        "subtitle": "Vogel- und Selbstbeobachtungen mit Philip Berreth, NABU.",
+        "description": "Fernglas-Leihe und Live-Standort für Kurzentschlossene: <a href=\"https://signal.group/#CjQKIHF3Nd7_-l5R_zYBg9aXej-ElroeCJ9jhc0ib0n7dO8NEhCW5KhMykZNBRnmunHjWBKD\">Signal</a>. Für Naturinteressierte: <a href=\"https://beats-and-bones.podigee.io/\">Beats & Bones (Podcast)</a> · Für Selbstinteressierte: <a href=\"https://open.spotify.com/intl-de/album/1GyuuZjoCZCWnnyB3PPWMv\">Konflikte lösen (Hörbuch)</a>",
+        "location": {
+            "prefix": "Bei trockenem Wetter ab/bis",
+            "name": "Kinderhaus im BDP",
+            "address": "Erbacher Str. 78",
+            "address_url": null
+        }
+    },
+    {
+        "uid": "8ea09d10-e919-45cc-9814-802dcbaea343",
+        "dates": [
+            "28.04.2024"
+        ],
+        "time": "6:30 - ca. 9:00 Uhr",
+        "structuredTime": {
+            "start": "6:30",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Vögel in den Eberstädter Streuobstwiesen",
+        "subtitle": "Vogelstimmenexkursion mit Andrea Weischedel, NABU & HGON.",
+        "description": "Fernglas-Leihe vor Ort möglich.",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Frankensteinschule",
+            "address": "Heinrich-Delp-Straße 189, Darmstadt-Eberstadt",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "ec98b82b-d58e-46fd-a9ac-a3dbd188dd68",
+        "dates": [
+            "04.05.2024"
+        ],
+        "time": "7:30 - ca. 12:30 Uhr",
+        "structuredTime": {
+            "start": "7:30",
+            "end": "12:30"
+        },
+        "type": "Exkursion",
+        "title": "Birdrace – Entdecke mit uns die Natur um Darmstadt",
+        "subtitle": null,
+        "description": "<p>In diesem Jahr wollen wir euch beim Birdrace die Vielfalt der V&ouml;gel in Darmstadt zeigen! Nachmittags in den Eberst&auml;dter Streuobstwiesen und vormittags an drei verschiedenen Orten in Darmstadt. Mit dem Live-Standort (s.u.) kannst du jederzeit dazukommen. Zu Fu&szlig; unterwegs sind wir von 7:30 &ndash; ca. 12:30 Uhr, jeweils ab/bis: </p><p>&bull; Grillh&uuml;tte Liederkranzeck, Messeler-Park-Str. / Obere M&uuml;hlstr. (Wixhausen-Ost) </p><p>&bull; Fahrradparkplatz M&uuml;hltalschwimmbad (Eberst&auml;dter Streuobstwiesen) </p><p>&bull; Mormonenkirche, Ecke Richard-Wagner-Weg/Graupnerweg (Fasanerie und Ostwald) </p><p>Ab ca. 15:30 Uhr m&ouml;chten wir uns dann in den Streuobstwiesen treffen um unsere Erlebnisse zu teilen und den Tag bei weiteren Beobachtungen an einem festen Standort gemeinsam ausklingen zu lassen: <a href=\"https://maps.app.goo.gl/mzhFzgCeQLbCMmx37\" target=\"_blank\" title=\"https://maps.app.goo.gl/mzhFzgCeQLbCMmx37\">Link zum Ort</a>  </p><p>Wir bitten dich darum, f&uuml;r die Anfahrt nach M&ouml;glichkeit das Fahrrad und/oder &ouml;ffentliche Verkehrsmittel zu nutzen. Falls du l&auml;nger dabei sein m&ouml;chtest, z.B. den ganzen Vormittag, empfehlen wir auch Proviant mitzunehmen.  </p><p>Ein Fernglas wird empfohlen. Leihe: <a href=\"https://signal.group/#CjQKIHF3Nd7_-l5R_zYBg9aXej-ElroeCJ9jhc0ib0n7dO8NEhCW5KhMykZNBRnmunHjWBKD\" target=\"_blank\" title=\"https://signal.group/#CjQKIHF3Nd7_-l5R_zYBg9aXej-ElroeCJ9jhc0ib0n7dO8NEhCW5KhMykZNBRnmunHjWBKD\" style=\"font-family: Arial, sans-serif; font-size: 11pt;\">Signal</a></p><p>Live-Standorte:  </p><p>Wixhausen-Ost:  <a href=\"https://maps.app.goo.gl/4ELKJzZZ3sgNxcBc8\" target=\"_blank\" title=\"https://maps.app.goo.gl/4ELKJzZZ3sgNxcBc8\" style=\"font-family: Arial, sans-serif; font-size: 11pt;\">Link</a> </p><p> Eberst&auml;dter Streuobstwiesen:   <a href=\"https://maps.app.goo.gl/ftbKtawVGcf72wRo7\" target=\"_blank\" title=\"https://maps.app.goo.gl/ftbKtawVGcf72wRo7\" style=\"font-family: Arial, sans-serif; font-size: 11pt;\">Link</a></p><p> Fasanerie und Ostwald:   <a href=\"https://maps.app.goo.gl/b52RePVcLCDkHfyP6\" target=\"_blank\" title=\"https://maps.app.goo.gl/b52RePVcLCDkHfyP6\" style=\"font-family: Arial, sans-serif; font-size: 11pt;\">Link</a>    </p><p>Weitere Informationen: <a href=\"https://birdrace.dda-web.de/\" target=\"_blank\" title=\"https://birdrace.dda-web.de/\">DDA-Birdrace</a></p>",
+        "location": null
+    },
+    {
+        "uid": "c30fab8d-a63e-4c57-a262-39b6d749a46f",
+        "dates": [
+            "04.05.2024"
+        ],
+        "time": "Ganztägig",
+        "structuredTime": null,
+        "type": "Exkursion",
+        "title": "NABU-Birdrace 2024",
+        "subtitle": null,
+        "description": "Wir möchten euch beim DDA-Birdrace in diesem Jahr in die schönsten Naturräume um Darmstadt einladen und gemeinsam die lebendige Vielfalt um uns herum erkunden. Details s. Veranstaltungen",
+        "location": null
+    },
+    {
+        "uid": "8cb79a5f-3b3d-46f6-9b56-b7a18163ef14",
+        "dates": [
+            "09.05.2024",
+            "10.05.2024",
+            "11.05.2024",
+            "12.05.2024"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Stunde der Gartenvögel",
+        "subtitle": null,
+        "description": "…sich einfach mal eine Stunde Zeit nehmen und die Vögel in direkter Umgebung zählen. Der NABU Bundesverband lädt mit dieser tollen Aktion Jung und Alt ein, ein offenes Auge auf unsere gefiederten Nachbar*innen zu werfen. Im Zeitraum vom 9. bis 12. Mai könnt ihr euch eine Stunde heraussuchen und mit dem Zählen starten. Weitere Informationen zu dieser Aktion, z.B. Info-Material, Zählkarten und wie man die Daten übermittelt findet ihr <a href=\"https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-%20%20gartenvoegel/mitmachen/index.html\" target=\"blank\">hier (Link)</a>.",
+        "location": null
+    },
+    {
+        "uid": "17bf5a6e-3b9b-48f8-b75d-572ec61aed6c",
+        "dates": [
+            "25.05.2024"
+        ],
+        "time": "13:00 - ca. 16:00 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Beikräuter und Pflanzen in Naturgärten: Gut für uns und für die Tiere",
+        "subtitle": "Pflanzenexkursion und -kostprobe in Kranichstein mit Dr. Christa Burger, NABU.",
+        "description": "Bitte Teller, Tasse und Besteck mitbringen.",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Straßenbahnhaltestelle Borsdorffstraße",
+            "address": "Kranichstein",
+            "address_url": null
+        }
+    },
+    {
+        "uid": "0b5fc405-00b5-4e05-9f87-696a76d173f6",
+        "dates": [
+            "26.05.2024"
+        ],
+        "time": "6:30 - ca. 9:00 Uhr",
+        "structuredTime": {
+            "start": "6:30",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Vögel in den Eberstädter Streuobstwiesen",
+        "subtitle": null,
+        "description": "Vogelstimmenexkursion mit Andrea Weischedel, NABU & HGON. Fernglas-Leihe vor Ort möglich.",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Parkplatz Mühltalschwimmbad",
+            "address": "Rebenweg",
+            "address_url": "https://www.openstreetmap.org/way/25344426"
+        }
+    },
+    {
+        "uid": "c34ee5ab-689a-4f61-b114-cdae96ce5fe2",
+        "dates": [
+            "08.06.2024"
+        ],
+        "time": "13:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "17:00"
+        },
+        "type": "Familie",
+        "title": "Gartentag in einem prämierten Reihenhaus-Naturgarten",
+        "subtitle": null,
+        "description": "<p>Staunen Sie was man alles in einem Naturgarten sehen, finden, schmecken und f&uuml;hlen kann! Es lebt sogar ein Bienenvolk in dem Garten!</p><p><i>Anmeldung bitte bis 5.6.2024 bei: silke.rossmeissl@gmx.de</i></p><p><span style=\"font-weight: 700 !important\">Wir bieten an:</span><ul><li>Setzlinge zum mitnehmen (f&uuml;r sonnige/halbschattige/schattige Orte)</li><li>Pflanz-Aktion f&uuml;r Kinder</li><li>Kr&auml;uter-Tisch mit Kostproben und Kr&auml;utergetr&auml;nken</li><li>Informationen &uuml;ber invasive Neophyten in G&auml;rten</li><li>Zu&nbsp;insektenfreundlichen Pflanzen (wichtige Naturgarten-Grundlagen)</li><li>Buchempfehlungen f&uuml;r den Naturgarten und Vogelf&uuml;tterung</li><li>Kaffee und Kuchen</li></ul></p>",
+        "location": {
+            "prefix": "bei",
+            "name": "Familie Rossmeissl",
+            "address": "Schepp Alle 72",
+            "address_url": "https://www.openstreetmap.org/node/2771986766"
+        }
+    },
+    {
+        "uid": "96f78990-862e-416d-ad33-4950b7c88efe",
+        "dates": [
+            "20.08.2024"
+        ],
+        "time": "19:00 - 21:00 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:00"
+        },
+        "type": "Exkursion",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": "Fledermaus-Exkursion mit Martin Hoier, Lioba Stenner und Oliver Weiß",
+        "description": "Das geheime, nächtliche Leben der Fledermäuse wird erfahrbar gemacht. Wie orientieren sie sich in der Nacht? Was fressen sie? Wie leben sie? Bei der Beobachtung unterschiedlicher Fledermausarten werden ihre Ultraschallrufe mit Detektoren hör- und sichtbar gemacht.",
+        "location": {
+            "prefix": "Bei trockenem Wetter ab/bis",
+            "name": "Haltestelle Fasanerie / Parkplatz am Oberfeld",
+            "address": "Dieburger Strasse (bei Revierförsterei Hirschköpfe)",
+            "address_url": "https://www.openstreetmap.org/node/1626540598"
+        }
+    },
+    {
+        "uid": "fcf7eefc-aed2-4018-84e3-bbcc558cabe8",
+        "dates": [
+            "05.10.2024"
+        ],
+        "time": "14:00 – ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Exkursion",
+        "title": "Heimische Sträucher für Tiere und für uns – Exkursion mit Probierproben",
+        "subtitle": null,
+        "description": "Weißdorn, Holunder, Heckenrose und Haselnuss - wir schauen uns einige heimische Sträucher mal genau an und erkunden ihren vielfältigen Einfluss auf das Leben von Insekten, Vögeln und auf unsere Umwelt. Es gibt leckere Probierproben von Hagebutte, Haselnuss und Co. – so könnt ihr mal kosten wie diese Sträucher unsere Ernährung bereichern und unsere Gesundheit fördern können. Bitte bringt dazu Teller, Besteck und wenn ihr mögt Getränke mit und je nach Wunsch und Möglichkeit auch Ableger von heimischen Sträuchern oder Stauden zum Tauschen oder Verschenken. Das Angebot ist kostenlos. Wir freuen uns über Spenden.",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Werkstatt Menschenskinder",
+            "address": "Siemensstraße 3a, Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "6f9859ff-f2e0-47ee-b94a-22dc911fad77",
+        "dates": [
+            "13.10.2024"
+        ],
+        "time": "15:00 – ca. 17:30 Uhr",
+        "structuredTime": {
+            "start": "15:00",
+            "end": "17:30"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundlicher Herbstspaziergang am Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Was macht der Eisvogel im Frühherbst? Welche Fledermäuse leben in Darmstadt? Was für Sträucher, Bäume und Kräuter wachsen hier? Wie ist das Gelände erdgeschichtlich entstanden? Der NABU Darmstadt lädt für Sonntag, 13.10.2024, zu einem naturkundlichen Spaziergang ein. Von 15:00 bis ca. 17:30 Uhr wird rund um den Steinbrücker Teich und das angrenzende Naturschutzgebiet Scheftheimer Wiesen die Tier- und Pflanzenwelt dieser Region erkundet. Experten aus den verschiedenen NABU-Projektgruppen erläutern die Besonderheiten des Gebiets und gehen auch auf Fragen zum Naturschutz vor Ort ein. Die Veranstaltung findet nur bei trockenem Wetter statt. Treffpunkt ist die Bushaltestelle Oberwaldhaus am Steinbrücker Teich in Darmstadt.",
+        "location": {
+            "prefix": "Treffpunkt",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "d9d4897f-c8b3-47f8-b980-c71a52293c4d",
+        "dates": [
+            "02.11.2024"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz auf unserer Obstwiese in Messel",
+        "subtitle": null,
+        "description": "<p>Der Arbeitseinsatz auf unserer Obstwiese in Messel musste wetterbedingt verschoben werden und wird jetzt an Samstag, dem 02.11.24 stattfinden. Für die folgende Arbeiten suchen wir noch Helfer*innen:</p><ul><li>Wiese mit einem Allesschneider bearbeiten</li> <li>einige Sträucher (bes. Brombeeren) und Kräuter entfernen</li><li>Mähgut abtransportieren und am südlichen Ende des Grundstücks aufschichten</li><li>Baumschnitt, insbesondere Äste, die in die Wege ragen</li><li>vertrockneten Äste / Bäume kappen und entsorgen</li><li>Verbissschutz von Bäumen entfernen, säubern, ggf. neu befestigen</li><li>Astmaterial auf Benjeshecke schichten </li><li>Nistkästen säubern und Belegung dokumentieren (Leiter ist vorhanden)</li><li>Trampelpfade mit Flatterband absperren</li></ul><p>Wenn Sie uns bei dieser Naturschutzarbeit unterstützen möchten, melden Sie sich bitte bei Friededore Abt-Voigt unter <a href=\"mailto:messel@nabu-darmstadt.de\">messel@nabu-darmstadt.de</a>. Gerne schicken wir Ihnen dann eine detaillierte Einladung.</p>",
+        "location": null
+    },
+    {
+        "uid": "3002b4c3-74e1-441f-868c-0c385eef178e",
+        "dates": [
+            "09.11.2024"
+        ],
+        "time": "11:00 - 13:30 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": "13:30"
+        },
+        "type": "Familie",
+        "title": "Nistkästen bauen - für Blaumeise & Co.",
+        "subtitle": null,
+        "description": "<p><b>Anmeldung bis 28.10.<b> unter <a href=\"mailto:anmeldung@menschenskinder-darmstadt.de\">anmeldung@menschenskinder-darmstadt.de</a>. Die Plätze sind limitiert. Kinder unter 10 Jahren müssen von einer erwachsenen Person begleitet werden. Das Angebot ist kostenlos. Wir freuen uns über Spenden. Mitbringen solltet ihr eine kleine Brotzeit und – wenn ihr habt – einen geladenen Akkuschrauber inkl. Bits.</p><p></p><p>Wohnungsnot im Vogelland! Nur wenige Höhlen in knorrigen alten Bäumen und Gemäuern gibt es noch und viele Vögel, die ihr Nest in einem kuscheligen Versteck bauen wollen, finden kein Zuhause mehr! Wir helfen euch aus Brettchen und Schrauben gemütliche und stabile Nistkästen zu bauen. Ihr könnt sie mitnehmen und bei euch zu Hause oder an einem anderen guten Platz aufhängen. Schaut im Frühling nach – welche Vögel sind eingezogen? Oder wohnen vielleicht sogar ganz andere spannende Tiere in eurem Nistkasten? Wir zeigen euch auch wie und wo ihr den Nistkasten am besten aufhängt und wie ihr ihn sauber macht damit er für ein neues Nest im nächsten Frühling frisch vorbereitet ist. Und schickt uns gerne eure Fotos, Videos und Beobachtungen für die NABU-Homepage oder die Zeitung!</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Werkstatt Menschenskinder",
+            "address": "Siemensstraße 3a, Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "c0d985d2-a040-4d04-bf1b-46e05ad7c7f7",
+        "dates": [
+            "18.11.2024"
+        ],
+        "time": "18:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "1a54f318-5069-406d-8810-3ba7b53e4c90",
+        "dates": [
+            "21.11.2024"
+        ],
+        "time": "19:00 – ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:30"
+        },
+        "type": "Vortrag",
+        "title": "Die Darmstädter Vogelwelt - Beobachtungen 2024",
+        "subtitle": "Vortrag mit Philip Bereth, Stefan Schütz und Torsten Rossmann.",
+        "description": "Vorgestellt werden die Ergebnisse von Begehungen und Kartierungen für 2024 im Raum Darmstadt. Welche Brutvögel kommen bei uns vor? Auch seltene Durchzügler und mögliche Neuankömmlinge werden in Bild und Ton gezeigt.",
+        "location": {
+            "prefix": "Im",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "0c5df3a9-1340-46d4-a687-a3951f12e93b",
+        "dates": [
+            "10.01.2025",
+            "11.01.2025",
+            "12.01.2025"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Stunde der Wintervögel",
+        "subtitle": "Bundesweite NABU-Aktion zur Zählung von Wintervögeln",
+        "description": "Weitere Informationen folgen in Kürze.",
+        "location": null
+    },
+    {
+        "uid": "11dc332e-20e6-47d1-a323-d02400580d37",
+        "dates": [
+            "19.01.2025"
+        ],
+        "time": "14 - 16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundlicher Winterspaziergang am Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Wir erkunden die Winterlandschaft an diesem beliebten Freizeitgelände und lauschen insbesondere der Vogelwelt. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "13bb7c81-b724-4bf9-ae51-0c98f807d5e7",
+        "dates": [
+            "20.01.2025"
+        ],
+        "time": "17:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "17:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Am Anfang Impulsvortrag und Diskussion mit Dr. Arnulf Rosenstock (Schutzgemeinschaft Deutscher Wald): Problematik des Streckenverlaufs der geplanten Ludwigshöh-Straßenbahn. Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "32fd24f5-5c32-4368-9c39-221bc4548ccb",
+        "dates": [
+            "23.01.2025"
+        ],
+        "time": "ab 18:00 Uhr",
+        "structuredTime": {
+            "start": "18:00",
+            "end": ""
+        },
+        "type": "Familie",
+        "title": "Fotowettbewerb 2024: Darmstädter Stadtnatur",
+        "subtitle": "Vorstellung der Gewinner und Ausstellungseröffnung",
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "1a44ca15-611a-4825-a654-65d27204355a",
+        "dates": [
+            "29.01.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Tiere und Pflanzen des Jahres 2025",
+        "subtitle": null,
+        "description": "In einem Vortrag stellen verschiedene Expertinnen und Experten des NABU Darmstadt den Vogel, das Amphib, die Fledermaus, das Insekt, den Fisch, den Baum und die Blume des Jahres 2025 vor.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "84446a1a-fe1a-4bd1-9867-5b616355373f",
+        "dates": [
+            "08.02.2025"
+        ],
+        "time": "ab 10 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": ""
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Zur Vorbereitung der Amphibienwanderung erfolgt die Überprüfung der bestehenden Anlage (Ersatztermin: 15.2.). Wir bitten um vorherige Anmeldung (<a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>). Leitung: Robert Bender",
+        "location": {
+            "prefix": "Treffpunkt",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "99ee3ce3-5471-45d6-aaa5-db36e19011b3",
+        "dates": [
+            "15.02.2025"
+        ],
+        "time": "11:00 - 14:30 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": "14:30"
+        },
+        "type": "Familie",
+        "title": "Wir bauen Wohnungen für Vögel – eine Veranstaltung für Kinder",
+        "subtitle": null,
+        "description": "Anmeldung bis zum 10.02.25 bei den „Menschenskindern“ erforderlich (<a href=\"mailto:projekt@menschenskinder-darmstadt.de\">projekt@menschenskinder-darmstadt.de</a>): Für Kinder ab 10 Jahre. Bitte mitbringen: Getränk, Essen, geladener Akku-Schrauber (falls vorhanden). Leitung: Katja Kühn",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Menschenskinder Darmstadt e.V.",
+            "address": "Siemensstraße 3a, Darmstadt-Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "68e5d198-2c1c-4347-b020-06be49da605e",
+        "dates": [
+            "17.02.2025"
+        ],
+        "time": "17:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "17:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Am Anfang Impulsvortrag und Diskussion mit Dipl.-Biol. Gerhard Eppler, ehem. Präsident des NABU Landesverbands Hessen: „Naturschutz gestern, heute und morgen. Herausforderungen und Chancen.“",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "94795fea-7434-4e26-8a44-d82f9f0b8dd2",
+        "dates": [
+            "15.03.2025"
+        ],
+        "time": "07:30 - 10:00 Uhr",
+        "structuredTime": {
+            "start": "07:30",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Spechte im Darmstädter Ostwald",
+        "subtitle": null,
+        "description": "Eine vogelkundliche Exkursion mit dem Schwerpunkt, die Rufe und das Klopfen unserer einheimischen Spechte kennenzulernen. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Zoo Vivarium Darmstadt",
+            "address": "Schnampelweg",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "5863ed2b-1149-43b8-acdc-f08f2229a3d3",
+        "dates": [
+            "16.03.2025"
+        ],
+        "time": "10:00 - 12:00 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "12:00"
+        },
+        "type": "Exkursion",
+        "title": "Amphibien-Exkursion am Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Seit vielen Jahren betreut der NABU Darmstadt den Amphibienzaun an der Dieburger Straße. Zur Laichzeit werden massenhaft Frösche, Kröten und Molche am Überqueren der Straße gehindert und in ein Ersatzgewässer gebracht. Bei diesen Aktivitäten kann man die Tiere gut beobachten und viel über ihr Verhalten lernen. Leitung: Stefani Klein und Robert Bender",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "356e2aed-ff45-4326-8264-872372d0a4f5",
+        "dates": [
+            "17.03.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "c86e707a-a99a-4f06-b4a8-88b8cbed0e13",
+        "dates": [
+            "21.03.2025"
+        ],
+        "time": "19:00 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Kraniche – Erlebnisse mit dem „Vogel des Glücks“ in Deutschland",
+        "subtitle": "Vortrag rund um den Kranich",
+        "description": "Leitung: Hans Günter Abt",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "ce1f434a-e1b8-4dab-92f4-2ac322fda21b",
+        "dates": [
+            "27.03.2025"
+        ],
+        "time": "18:00 - 20:00 Uhr",
+        "structuredTime": {
+            "start": "18:00",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Mitgliederversammlung",
+        "subtitle": null,
+        "description": "Themen der Mitgliederversammlung werden der Jahres- und Kassenbericht aus 2024 sein, der Vorstand und die Kassenprüfung müssen entlastet, und es müssen dieses Jahr Menschen für die Kassenprüfung 2025 gewählt werden. Im Anschluss an die Mitgliederversammlung stellen sich die einzelnen Projektgruppen vor. Über ein zahlreiches Erscheinen würden wir uns freuen. Die Tagesordnung findet ihr <a href=\"https://static.nabu-darmstadt.de/mv/2025-03-27-Tagesordnung-MV.pdf\">hier</a>.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "5cbecb49-1f1a-48fa-a33a-7e9d1479aa6f",
+        "dates": [
+            "30.03.2025"
+        ],
+        "time": "14:00 - 16:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Frühlingswanderung rund um den Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Wir erkunden Flora und Fauna an diesem beliebten Freizeitgelände und den Ausläufern des Naturschutzgebiets Scheftheimer Wiesen. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "bd4162a2-23e1-430f-bdec-9d2be26c14ce",
+        "dates": [
+            "05.04.2025"
+        ],
+        "time": "14:00 - 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Exkursion",
+        "title": "Kräuterspaziergang: Brennnessel, Löwenzahn und Co. – Pflanzen mit unterschätzten Nutzen für Tier und Mensch",
+        "subtitle": null,
+        "description": "Wir erkunden häufige, robuste Pflanzen in unserer Umgebung und erfahren etwas über ihren Nutzen. Anschließend gibt es einfache Probierproben. <b>Bitte mitbringen: Teller, Besteck, Getränk</b>. Leitung: Christa Burger",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Menschenskinder Darmstadt e.V.",
+            "address": "Siemensstraße 3a, Darmstadt-Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "20c6f5d3-8f1c-4df0-8850-7c3a25ba7c93",
+        "dates": [
+            "13.04.2025"
+        ],
+        "time": "7:30 - ca. 10:00 Uhr",
+        "structuredTime": {
+            "start": "7:30",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Vögel im Darmstädter Osten: Fasanerie",
+        "subtitle": "Vogelstimmenexkursion",
+        "description": "Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Teffpunkt:",
+            "name": "Ecke",
+            "address": "Richard-Wagner Weg / An der alten Fasaneriemauer, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/150047235"
+        }
+    },
+    {
+        "uid": "36d73af5-23fc-4ca7-8996-aff49d0cf128",
+        "dates": [
+            "14.04.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "aa8db26c-5d31-4f84-8cd4-232d61389d5e",
+        "dates": [
+            "21.04.2025"
+        ],
+        "time": "8 - ca. 11 Uhr",
+        "structuredTime": {
+            "start": "8:00",
+            "end": "11:00"
+        },
+        "type": "Exkursion",
+        "title": "Leben, federleicht · Vögel in Wixhäuser Feldern, Wald und Mörsbachaue.",
+        "subtitle": null,
+        "description": "Wir wollen gemeinsam diesen vielfältigen Lebensraum erkunden und dabei Vögel beobachten, die sich dort wohlfühlen und sich uns zeigen. Dabei dürfen wir uns auch berühren lassen von der Schönheit und Besonderheit ihrer vielfältigen Ausdrucksweisen in Stimme, Gestalt und Lebensart. Leitung: Philip Berreth",
+        "location": {
+            "prefix": "Treffpunkt: ab/bis",
+            "name": "Kreuzung Messeler-Park-Straße / Obere Mühlstraße („Liederkranzeck“)",
+            "address": "DA-Wixhausen",
+            "address_url": "https://www.openstreetmap.org/node/672490811"
+        }
+    },
+    {
+        "uid": "01d2136e-b99a-47c7-a12c-678b24a9d2d3",
+        "dates": [
+            "25.04.2025"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Draculas Freunde am Oberwaldhaus",
+        "subtitle": "Fledermaus-Exkursion für Kinder",
+        "description": "Veranstaltung im Rahmen des Umweltdiploms 2025. Nur für Darmstädter Kinder der Jahrgangsstufen 4-6. Anmeldung erforderlich, ausschließlich über das vom Umweltamt Darmstadt bekanntgegebene Portal. Leitung: Oliver Weiß",
+        "location": null
+    },
+    {
+        "uid": "4dbdde40-89e8-4911-b587-2eb4eb2d5f56",
+        "dates": [
+            "27.04.2025"
+        ],
+        "time": "6:30 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "6:30",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Vogelwelt der Eberstädter Streuobstwiesen",
+        "subtitle": "Vogelstimmenexkursion",
+        "description": "Eine Vogelstimmen-Exkursion in die „Toskana“ Darmstadts. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Frankensteinschule",
+            "address": "Heinrich-Delp-Straße 189, Darmstadt-Eberstadt",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "424d5b4e-fecf-450d-af00-a7ae859607c1",
+        "dates": [
+            "29.04.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr (Einlass 18:00 Uhr)",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentlichen Abschlussveranstaltung zur Erstellung des Klimaanpassungsplans der Wissenschaftsstadt Darmstadt",
+        "subtitle": "Veranstaltung des Amtes für Klimaschutz und Klimaanpassung der Wissenschaftsstadt Darmstadt",
+        "description": null,
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Hessisches Staatsarchiv",
+            "address": "Karolinenplatz 3, 64289 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/1895839708"
+        }
+    },
+    {
+        "uid": "ec6b50c1-b01e-4473-aae6-15bb7674fe38",
+        "dates": [
+            "02.05.2025"
+        ],
+        "time": "19 - ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:30"
+        },
+        "type": "Exkursion",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": "Fledermaus-Exkursion",
+        "description": "Das geheime, nächtliche Leben der Fledermäuse wird erfahrbar gemacht. Wie orientieren sie sich in der Nacht? Was fressen sie? Bei der Beobachtung unterschiedlicher Fledermausarten werden ihre Ultraschallrufe mit Detektoren hör- und sichtbar gemacht. Leitung: Martin Hoier, Lioba Stenner und Oliver Weiß",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "50144b0f-c175-4aa1-9a0f-f7863c4bf64e",
+        "dates": [
+            "03.05.2025"
+        ],
+        "time": "Ganztägig",
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Birdrace 2025",
+        "subtitle": null,
+        "description": "Alljährlich findet in Deutschland, Österreich und der Schweiz am ersten Samstag im Mai das Bird Race statt. An diesem Tag versuchen Birder in ihren jew. Stadt- oder Landkreisen möglichst viele verschiedene Vogelarten zu bestimmen. Die „Profis“ machen sich schon vor Sonnenaufgang auf um Eulen und scheue Waldvögel zu erspähen. Der NABU startet in diesem Jahr mit einem Team, welches an vier verschiedenen Startpunkten beginnt und später zum Austausch der Sichtungen zusammen kommt. Wir wollen der interessierten Öffentlichkeit die Möglichkeit geben an unseren Exkursionen teilzunehmen um unsere wunderschöne Stadtnatur zu erkunden. So können später an vier Treffpunkten Vogelbegeisterte hinzustoßen und für eine Teiletappe von ca. 3-4 Stunden an dem Event teilnehmen.<br />Die Treffpunkte sind: <br />1. Mormonenkirche an der Ecke Richard-Wagner-Weg/Graupner Weg (Stefan Schütz)<br />2. Parkplatz Mühltalbad, Eberstadt (Torsten Rossmann)<br />3. Wixhausen, Grillhütte Liederkranzeck, nahe GSI (Lukas Schreiber)<br />4. Griesheim, Kreuzung Lindenstrasse/Südring (Philip Berreth, „Slow Race“)<br />Uhrzeit jeweils 8:00 Uhr.<br />Bitte Ferngläser mitbringen, bei Bedarf können auch einige ausgeliehen werden. Bitte auch an Verpflegung und ggf. Sonnenschutz denken.",
+        "location": null
+    },
+    {
+        "uid": "042cc1c5-9d05-4781-931a-692c99a87190",
+        "dates": [
+            "09.05.2025",
+            "10.05.2025",
+            "11.05.2025"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Stunde der Gartenvögel",
+        "subtitle": null,
+        "description": "Bundesweite NABU-Aktion zur Zählung von Vögeln in unserem Wohnumfeld. Weitere Informationen auf unserer Homepage",
+        "location": null
+    },
+    {
+        "uid": "424be34c-b0eb-43a9-9392-c0537070f14f",
+        "dates": [
+            "10.05.2025"
+        ],
+        "time": null,
+        "structuredTime": null,
+        "type": "Familie",
+        "title": "Welcher Vogel singt da? ",
+        "subtitle": "Vogelstimmenexkursion für Kinder",
+        "description": "Veranstaltung im Rahmen des Umweltdiploms 2025. Nur für Darmstädter Kinder der Jahrgangsstufen 4-6. Anmeldung erforderlich, ausschließlich über das vom Umweltamt Darmstadt bekanntgegebene Portal. Leitung: Katja Kühn",
+        "location": null
+    },
+    {
+        "uid": "6ccbfe72-f0f5-4522-b7b5-02d22aebcd6a",
+        "dates": [
+            "11.05.2025"
+        ],
+        "time": "7 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "7:00",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Vögel im Darmstädter Westen: Westwald",
+        "subtitle": null,
+        "description": "Vogelstimmenexkursion und Beobachtungen zum Baumsterben. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Parkplatz des Sportvereins SKV Rot-Weiß Darmstadt, Winkelschneise",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/58647058"
+        }
+    },
+    {
+        "uid": "56e779aa-0954-4c43-87b9-72e2428431eb",
+        "dates": [
+            "18.05.2025"
+        ],
+        "time": "7 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "7:00",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Feldvögel in Messel",
+        "subtitle": null,
+        "description": "Schwerpunkt bei dieser Exkursion sind die brütenden Feldvögel in den Heckenbereichen und Wiesen sowie am Messeler Waldrand kennenzulernen. Leitung: Hans Günter Abt",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Kreuzung Sudetenstraße / Im Kleepfad",
+            "address": "Messel",
+            "address_url": "https://www.openstreetmap.org/node/1512747476"
+        }
+    },
+    {
+        "uid": "ff33ffb8-6c35-4485-a969-f648e33dc3d2",
+        "dates": [
+            "19.05.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "e95d4108-871f-4e76-afdf-06e3919f41f5",
+        "dates": [
+            "22.05.2025"
+        ],
+        "time": "16:00 Uhr - ca. 19:00 Uhr",
+        "structuredTime": {
+            "start": "16:00",
+            "end": "19:00"
+        },
+        "type": "Vortrag",
+        "title": "Krautschau",
+        "subtitle": "Veranstaltung zum Tag der biologischen Vielfalt",
+        "description": "Wir wollen die Vielfalt der sonst manchmal übersehenen Pflanzenarten in der Stadt sichtbar machen. Dazu werden wir uns in zwei Gruppen auf den Weg machen, um alle \"Ritzenrebellen\" auf unserem Weg zu bestimmen und mit Kreide zu markieren. Um 18 Uhr treffen wir uns dann am Schlossgartenplatz der Elisabethenkirche, wo es einen gemeinsamen Abschluss geben wird.",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Eine Gruppe startet an der Jugendherberge am großen Woog, eine Gruppe am Staatstheater",
+            "address": null,
+            "address_url": null
+        }
+    },
+    {
+        "uid": "f82b8150-1b89-45cb-b8ec-26390f385bbe",
+        "dates": [
+            "25.05.2025"
+        ],
+        "time": "8 - ca. 11 Uhr",
+        "structuredTime": {
+            "start": "8:00",
+            "end": "11:00"
+        },
+        "type": "Exkursion",
+        "title": "Leben, federleicht · Vogelexkursion in Oberfeld, Ostwald und Scheftheimer Wiesen",
+        "subtitle": null,
+        "description": "Wir wollen gemeinsam diesen vielfältigen Lebensraum erkunden und dabei Vögel beobachten, die sich dort wohlfühlen und sich uns zeigen. Dabei dürfen wir uns auch berühren lassen von der Schönheit und Besonderheit ihrer vielfältigen Ausdrucksweisen in Stimme, Gestalt und Lebensart. Leitung: Philip Berreth",
+        "location": {
+            "prefix": "Treffpunkt: ab/bis",
+            "name": "Melkhaus Oberfeld",
+            "address": "Katharinenfalltorweg, 64287 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/10171401241"
+        }
+    },
+    {
+        "uid": "23bf6ca0-d4b7-4f7f-95a3-623ebd15bcfb",
+        "dates": [
+            "01.06.2025"
+        ],
+        "time": "6:30 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "6:30",
+            "end": "9:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Vogelwelt der Eberstädter Streuobstwiesen",
+        "subtitle": null,
+        "description": "Eine Vogelstimmen-Exkursion in die „Toskana“ Darmstadts. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Parkplatz Mühltalschwimmbad",
+            "address": "Rebenweg",
+            "address_url": "https://www.openstreetmap.org/way/25344426"
+        }
+    },
+    {
+        "uid": "73e651b8-f020-44aa-881f-bbed262e38cf",
+        "dates": [
+            "12.06.2025"
+        ],
+        "time": "17:00 - 19:00 Uhr",
+        "structuredTime": {
+            "start": "17:00",
+            "end": "19:00"
+        },
+        "type": "Vortrag",
+        "title": "Vorstellung der Ergebnisse der Runden Tische zur Erarbeitung einer kommunalen Biodiversitätsstrategie für die Wissenschaftsstadt Darmstadt",
+        "subtitle": "Veranstaltung des Biodiversitätsteam im Umweltamt der Wissenschaftsstadt Darmstadt",
+        "description": null,
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Justus Liebighaus",
+            "address": "Große Bachstraße 2, 64283 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/1110585389#map=19/49.871764/8.657892"
+        }
+    },
+    {
+        "uid": "f49284ec-1d89-4922-b344-62efb927a52c",
+        "dates": [
+            "15.06.2025"
+        ],
+        "time": "08:00 - ca. 11:00 Uhr",
+        "structuredTime": {
+            "start": "08:00",
+            "end": "11:00"
+        },
+        "type": "Exkursion",
+        "title": "Vogelbestimmung für Einsteiger (abgesagt)",
+        "subtitle": "Eine Einführung für interessierte Vogelliebhaber ohne Vorkenntnisse",
+        "description": "Haben Sie sich nicht schon öfters mal gefragt: Welcher Vogel singt denn da eigentlich? Diese Exkursion richtet sich besonders an Anfänger, auch ohne Vorkenntnisse. Es werden die verschiedenen Möglichkeiten der Vogelbestimmung vermittelt und praktisch angewendet. Den Teilnehmern soll ein Einstieg in die Vogelwelt ermöglicht werden mit dem Ziel durch die erlernten Techniken die eigenen Fähigkeiten selbstständig zu verbessern. Lassen Sie uns gemeinsam die Vogelwelt erkunden und einen näheren Zugang zu den wunderschönen Geschöpfen erhalten. Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+            "address": "Ecke Graupnerweg/Richard-Wagner-Weg",
+            "address_url": "https://www.openstreetmap.org/way/1268418262"
+        }
+    },
+    {
+        "uid": "1a44f221-b0c1-4d0f-9d54-3994149a799e",
+        "dates": [
+            "16.06.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "f94adb59-85e6-4b91-99c6-5e2561bee380",
+        "dates": [
+            "22.06.2025"
+        ],
+        "time": "08:00 - ca. 11:00 Uhr",
+        "structuredTime": {
+            "start": "08:00",
+            "end": "11:00"
+        },
+        "type": "Exkursion",
+        "title": "Vogelbestimmung für Einsteiger",
+        "subtitle": "Eine Einführung für interessierte Vogelliebhaber ohne Vorkenntnisse",
+        "description": "Haben Sie sich nicht schon öfters mal gefragt: Welcher Vogel singt denn da eigentlich? Diese Exkursion richtet sich besonders an Anfänger, auch ohne Vorkenntnisse. Es werden die verschiedenen Möglichkeiten der Vogelbestimmung vermittelt und praktisch angewendet. Den Teilnehmern soll ein Einstieg in die Vogelwelt ermöglicht werden mit dem Ziel durch die erlernten Techniken die eigenen Fähigkeiten selbstständig zu verbessern. Lassen Sie uns gemeinsam die Vogelwelt erkunden und einen näheren Zugang zu den wunderschönen Geschöpfen erhalten. Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+            "address": "Ecke Graupnerweg/Richard-Wagner-Weg",
+            "address_url": "https://www.openstreetmap.org/way/1268418262"
+        }
+    },
+    {
+        "uid": "d3c3d644-b9e5-4919-8b95-1182b4d24538",
+        "dates": [
+            "29.06.2025"
+        ],
+        "time": "14 - 17 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Exkursion",
+        "title": " Naturkundliche Sommerexkursion",
+        "subtitle": null,
+        "description": "Wir erkunden die Dünenlandschaft im Eberstädter Raum, mit Schwerpunkt Ulvenbergdüne. Was wächst, wer kreucht und wer fliegt hier rum? Eine Dünenexkursion in die wärmste Region Darmstadts. Leitung: Experten vom NABU Darmstadt",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Märchenbrunnen",
+            "address": " DA-Eberstadt, Ecke Nussbaumallee / Fritz-Dächert Weg",
+            "address_url": "https://www.openstreetmap.org/node/371687757#map=19/49.809028/8.637329"
+        }
+    },
+    {
+        "uid": "cc177312-0d56-46b5-82e4-c7da07d6de5a",
+        "dates": [
+            "21.07.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "c7995086-d728-4aa2-8c95-2c1687b02bfa",
+        "dates": [
+            "10.08.2025"
+        ],
+        "time": "ab 10 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "17:00"
+        },
+        "type": "Familie",
+        "title": "Mit dem NABU die Fledermäuse in der Grube Messel entdecken",
+        "subtitle": null,
+        "description": "Am 10. August 2025 findet am Besucherzentrum der Grube Messel ab 10 Uhr wieder das Grubenfest statt. Mit dabei ist der NABU Darmstadt mit einem Stand rund um das Thema Fledermäuse. In der Fossillagerstätte Grube Messel sind viele  Skelette von ca. 47 Millionen Jahre alten Fledermäusen gefunden worden. Und sie sahen schon so aus wie die heutigen Arten. Die Biologie dieser außergewöhnlichen Säugetiergruppe steht im Vordergrund des NABU-Stands. Wie können ihre Rufe geortet und bestimmt werden? Was fressen sie? Wo leben Sie? Diese und viele weitere Fragen können an dem Stand durch Versuche an eigens entwickelten Detektoren und Beobachtungen am Mikroskop beantwortet werden. Für die kleinen Besucher gibt es Bastel- und Malbögen zum Thema.",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Besucherzentrum Grube Messel",
+            "address": "Grube Messel, 64409 Messel",
+            "address_url": "https://www.openstreetmap.org/node/1423015667"
+        }
+    },
+    {
+        "uid": "ee45a768-7883-42b6-90b0-2161cffece36",
+        "dates": [
+            "18.08.2025"
+        ],
+        "time": "16:30 - ca. 18:30 Uhr",
+        "structuredTime": {
+            "start": "16:30",
+            "end": "18:30"
+        },
+        "type": "Exkursion",
+        "title": "Was zirpt denn da? Exkursion zu den Heuschrecken und Grillen im Osten Eberstadts",
+        "subtitle": null,
+        "description": "Der NABU Darmstadt lädt zu einer hochsommerlichen Wanderung am Montag, den 18.8. in das Naturschutzgebiet Lerchenberg / Kernesbellen ein. Dieses Dünen-Gebiet aus offenen Wiesenbereichen, sowie einer Strauch- und Baumlandschaft zeigt eine Vielzahl typischer Pflanzen- und Tierarten, die auf trockene Standorte spezialisiert sind. Auch viele Heuschreckenarten fühlen sich dort wohl. Die Biologin Johanna Berger von der TU Darmstadt ist eine Spezialistin für diese Insektengruppe und wird die Exkursion leiten. Ein weiterer Schwerpunkt wird die Erläuterung der verschiedenen Mahd- und Beweidungsstrategien sein. Hier hat in den letzten Jahren ein Bewusstseinswandel stattgefunden. Inwieweit diese neuen Erkenntnisse in die Pflege von Grünflächen innerhalb und außerhalb der Siedlungsbebauung Einzug gefunden hat, kann erfragt werden. <br /> Die Exkursion findet nur bei trockenem Wetter statt.",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Eberstadt, östliches Ende der Schloßstraße am kleinen Parkplatz",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/1386604395"
+        }
+    },
+    {
+        "uid": "99a4ce25-7c5d-4c11-ac06-ce1ef9aec5de",
+        "dates": [
+            "18.08.2025"
+        ],
+        "time": "19:00 - 21:00 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:00"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "87bd5f67-9a29-4c28-89f4-5aee7fa18b22",
+        "dates": [
+            "23.08.2025"
+        ],
+        "time": "19 - ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:30"
+        },
+        "type": "Exkursion",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": null,
+        "description": "Das geheime, nächtliche Leben der Fledermäuse wird erfahrbar gemacht. Wie orientieren sie sich in der Nacht? Was fressen sie? Bei der Beobachtung unterschiedlicher Fledermausarten werden ihre Ultraschallrufe mit Detektoren hör- und sichtbar gemacht. Leitung: Martin Hoier, Lioba Stenner und Oliver Weiß - Keine Anmeldung erforderlich.",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "0035b0e2-95b0-4c99-903f-13ded723f874",
+        "dates": [
+            "06.09.2025"
+        ],
+        "time": "10:00 - 15:00 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "15:00"
+        },
+        "type": "Familie",
+        "title": "Go.BioFair - Markt für Umwelt und Nachhaltigkeit",
+        "subtitle": null,
+        "description": "Am 06. September 2025 findet die Go.BioFair des Umweltamtes derWissenschaftsstadt Darmstadt und des Evangelischen Dekanats Darmstadt ab 10 Uhr auf dem Friedensplatz statt. Mit dabei ist der NABU Darmstadt mit einem Stand zu unserer Naturschutzarbeit in Darmstadt. Weiterhin gibt es rund 60 Informations und Verkaufsstände und ein kleines kulinarisches Angebot.",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Friedensplatz",
+            "address": "Friedensplatz, 64283 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/relation/144516"
+        }
+    },
+    {
+        "uid": "5697c9fa-33a6-4377-92e0-4bb3e5ebb8de",
+        "dates": [
+            "13.09.2025"
+        ],
+        "time": "10:00 - 15:00 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "15:00"
+        },
+        "type": "Familie",
+        "title": "Umwelt- und Familientag des EAD",
+        "subtitle": null,
+        "description": "Am 13. September 2025 findet der 27. Umwelt- und Familientag des EAD statt. Dieses Jahr ist zum ersten Mal auch der NABU Darmstadt mit einem Stand vertreten. Es gibt ein buntes Programm für die ganze Familie. Neben vielen Mitmachaktionen und Informationen rund um die Themen Abfall, Umwelt- und Klimaschutz, gibt es auch ein kleines kulinarisches Angebot. Ein kostenloser Shuttle-Bus ist eingerichtet und fährt halbstündlich von 10:00 bis 14:00 vom Justus-Liebig-Haus zum EAD (letzte Rückfahrt um 15:30 Uhr).",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "EAD Betriebshof",
+            "address": "Sensfelderweg 33, 64293 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/268394224"
+        }
+    },
+    {
+        "uid": "325ad90b-b378-4360-b435-6a22c2234aaa",
+        "dates": [
+            "15.09.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "4d1c321b-f835-4e64-93cf-fb397b7b873e",
+        "dates": [
+            "18.09.2025"
+        ],
+        "time": "18:30 - 20 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Was vom Vogel übrig blieb – Federn, Gewölle, Knochen",
+        "subtitle": null,
+        "description": "Wir stellen Skelettreste, Federn, Gewölle und Spuren von Vögeln vor. Dazu gibt es Informationen zur Anatomie, Flugphysik und Entwicklungsgeschichte dieser faszinierenden Tiergruppe. Vortrag mit viel Anschauungsmaterial von unserer Projektgruppe Vogelkartierung.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "5b6c2ce7-faa5-42e4-8057-7eb6d0db72bf",
+        "dates": [
+            "20.09.2025"
+        ],
+        "time": "13:00 - 16:00 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "16:00"
+        },
+        "type": "Familie",
+        "title": "Das große Aufräumen: Aktionen in Darmstadt zum Internationalen World Clean-up Day",
+        "subtitle": null,
+        "description": "Menschen hinterlassen Spuren in ihrer Umwelt. Leider gehört auch Müll dazu, große und kleine Teile. Die Problematik des Mikroplastiks beginnen wir gerade zu erahnen. Daher bedeutet aktiver Umwelt- und Naturschutz auch Strategien zu entwickeln, Müll zu verhindern. Am 20.9.2025 findet weltweit der „World Clean-up day“ statt. Bisher haben sich 114 Millionen Menschen in über 211 Ländern an der Aktion beteiligt und durch Cleanups (Müllsammelaktionen) ein starkes Zeichen für eine saubere, gesunde und müllfreie Welt gesetzt. Ganz praktisch lädt der NABU Darmstadt mit seiner neu gegründeten Projektgruppe „Clean Our Planet Dude/ines“ zum Müllsammeln ein. In Darmstadt werden, mit Unterstützung des EAD, an diesem Tag von 13:00 -16:00 in mehreren Gruppen Stadtteile auf der Suche nach Müll durchkämmt. Startpunkte sind z.B. die Kreuzung Ludwigshöhstraße/Granitstraße, am Nordbad und im Herrngarten. Müllgreifer und Säcke werden gestellt. Eine Anmeldung ist nicht erforderlich. Um 16:30 Uhr findet eine gemeinsame Abschlussveranstaltung am Rondell im Herrngarten statt.<br /><br />Treffpunkte:<ul><li>Kiesrondell im Herrngarten: <a target='_blank' href='https://www.openstreetmap.org/way/359450419'>Standort</a></li><li>Kreuzung Ludwigshöhstraße/Granitstraße: <a target='_blank' href='https://www.openstreetmap.org/way/1281280033'>Standort</a></li><li>Haltestelle Nordbad: <a target='_blank' href='https://www.openstreetmap.org/node/1629887445'>Standort</a></li><li>Bahnhof Dieburg (mit dem Fahrrad): <a target='_blank' href='https://www.openstreetmap.org/node/3731955630'>Standort</a></li></ul>",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "verschiedene Treffpunkte in Darmstadt",
+            "address": null,
+            "address_url": null
+        }
+    },
+    {
+        "uid": "0c24e4ce-39f9-4ac0-8e9a-cdf1a4963525",
+        "dates": [
+            "20.10.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "467dbd49-b21f-4133-a8f3-852077015c78",
+        "dates": [
+            "02.11.2025"
+        ],
+        "time": "14 - 16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Herbstwanderung rund um den Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Terminänderung vom 26.10. zum 02.11. - Wir erkunden Flora und Fauna in der „bunten Jahreszeit“ an diesem beliebten Freizeitgelände und lauschen insbesondere der Vogelwelt. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "c1ede00b-cd05-4645-b74c-d8b3611df99a",
+        "dates": [
+            "17.11.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "e7b67224-811c-4370-9183-b3d00297afb0",
+        "dates": [
+            "19.11.2025"
+        ],
+        "time": "18:30 - 21 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "21:00"
+        },
+        "type": "Vortrag",
+        "title": "Die Darmstädter Vogelwelt – Beobachtungen 2025 / 2026",
+        "subtitle": null,
+        "description": "Vorgestellt werden die Ergebnisse von Begehungen und Kartierungen für 2025 und 2026 im Raum Darmstadt. Welche Brutvögel kommen bei uns vor? Auch seltene Durchzügler und mögliche Neuankömmlinge werden in Bild und Ton gezeigt.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "1d89778d-f0d8-44ac-a1cc-10884abed3a6",
+        "dates": [
+            "20.11.2025"
+        ],
+        "time": "19 - 21 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "21:00"
+        },
+        "type": "Vortrag",
+        "title": "Die Darmstädter Vogelwelt – Beobachtungen 2024 / 2025",
+        "subtitle": null,
+        "description": "Vorgestellt werden die Ergebnisse von Begehungen und Kartierungen für 2024 und 2025 im Raum Darmstadt. Welche Brutvögel kommen bei uns vor? Auch seltene Durchzügler und mögliche Neuankömmlinge werden in Bild und Ton gezeigt. Leitung: Philip Berreth, Stefan Schütz, Torsten Rossmann",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "cf508ec6-bf0c-4e9f-a252-7686283abe8a",
+        "dates": [
+            "15.12.2025"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": "Die Vorstandssitzung ist öffentlich. Gäste sind herzlich willkommen.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bessunger Knabenschule, Raum Teestube",
+            "address": "Ludwigshöhstraße 42, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/26948058"
+        }
+    },
+    {
+        "uid": "7a46c365-8668-4234-b747-bad33c6aadd9",
+        "dates": [
+            "04.01.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt in der Lincoln-Siedlung",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Haltestelle Marienhöhe",
+            "address": "Heidelberger Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/901795264"
+        }
+    },
+    {
+        "uid": "a52c7ee3-b6af-458d-9bd2-29aba0ae23bb",
+        "dates": [
+            "04.01.2026"
+        ],
+        "time": "14 - ca. 16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Winterliche Exkursion über die Mathildenhöhe und Rosenhöhe",
+        "subtitle": null,
+        "description": "Der NABU Darmstadt lädt zu einem naturkundlichen Spaziergang zu Beginn des neuen Jahres ein. Wir starten am Osthang der Mathildenhöhe und durchstreifen die Natur- und Kulturräume der Mathildenhöhe und Rosenhöhe. Die winterliche Tier- und Pflanzenwelt ist je nach Witterung gut zu beobachten. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Osthang der Mathildenhöhe",
+            "address": "Olbrichweg, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/1286855252"
+        }
+    },
+    {
+        "uid": "7f7c08bb-e943-4fd3-92b9-5c4365c5a23f",
+        "dates": [
+            "17.01.2026"
+        ],
+        "time": "ab 9:30 Uhr",
+        "structuredTime": {
+            "start": "09:30",
+            "end": ""
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz Feldholzinsel auf dem Oberfeld",
+        "subtitle": null,
+        "description": "Wir starten das Jahr mit einem Arbeitseinsatz auf unserem Grundstück am Oberfeld. Verschoben vom: 10.01.2026. Bitte mitbringen: Handschuhe, festes Schuhwerk. Anmeldung: vogelkartierung@nabu-darmstadt.de ",
+        "location": null
+    },
+    {
+        "uid": "66b56742-12d2-487e-be2e-ee7ef1ecec06",
+        "dates": [
+            "18.01.2026"
+        ],
+        "time": "14-16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Winterwanderung rund um das Oberfeld",
+        "subtitle": null,
+        "description": "Wir erkunden die winterliche Flora und Fauna an diesem beliebten Ausflugsziel. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt: ab/bis",
+            "name": "Melkhaus Oberfeld",
+            "address": "Katharinenfalltorweg, 64287 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/10171401241"
+        }
+    },
+    {
+        "uid": "0d3ccb7f-1abc-4a44-94f0-a05118b61d42",
+        "dates": [
+            "19.01.2026"
+        ],
+        "time": "18:30 – 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "facb6b5d-e10a-4852-9898-4524afa13b1f",
+        "dates": [
+            "01.02.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Haltestelle Marienhöhe",
+            "address": "Heidelberger Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/901795264"
+        }
+    },
+    {
+        "uid": "6b475938-16c7-47c7-a7b2-e6b8ded5c661",
+        "dates": [
+            "16.02.2026"
+        ],
+        "time": "18:30 bis 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung. Bitte alle mit Pappnasen.",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "034c0eae-d6a8-402b-b816-a2f61346bbcc",
+        "dates": [
+            "19.02.2026"
+        ],
+        "time": "18:00 - 20:00 Uhr",
+        "structuredTime": {
+            "start": "18:00",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Lärm und Vogelwelt – passt das zusammen? Ergebnisse unseres Langzeitprojekts Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Ein Jahr lang erkundeten wir regelmäßig die Vogelwelt am Steinbrücker Teich und haben parallel Lärmmessungen durchgeführt. Unsere Ergebnisse hierzu werden präsentiert.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "b8b4623a-b78a-4a0b-b58a-f1c452c1d61b",
+        "dates": [
+            "01.03.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Bushaltestelle Nordbahnhof",
+            "address": "Frankfurter Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/5314638021"
+        }
+    },
+    {
+        "uid": "d9c8e5b7-1a0c-4c8e-9b1c-7a0d2f1e5a3b",
+        "dates": [
+            "03.03.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion am Heiligenteich ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Auf Grund des Geländes empfehlen wir Gummistiefel oder festes Schuhwerk, Handschuhe und wetterfeste Kleidung. Leitung: Lukas Schreiber",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Heiligenteich",
+            "address": "Parkstraße, Darmstadt Kranichstein",
+            "address_url": "https://www.openstreetmap.org/way/22200125"
+        }
+    },
+    {
+        "uid": "f2ae1394-fa13-4003-92e0-9f463a8d1dfc",
+        "dates": [
+            "05.03.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Tiere und Pflanzen des Jahres 2026",
+        "subtitle": null,
+        "description": "In einem Vortrag stellen verschiedene Experten des NABU Darmstadt den Vogel, das Amphib, die Fledermaus, den Fisch, das Insekt, den Baum und die Blume des Jahres 2026 vor.",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "2ad489e9-bfa7-4987-84b4-116fe96509fb",
+        "dates": [
+            "08.03.2026"
+        ],
+        "time": "07:30 - 09:30 Uhr",
+        "structuredTime": {
+            "start": "07:30",
+            "end": "09:30"
+        },
+        "type": "Vortrag",
+        "title": "Die Spechte im Darmstädter Ostwald",
+        "subtitle": null,
+        "description": "Eine vogelkundliche Exkursion mit dem Schwerpunkt, die Rufe und das Klopfen unserer einheimischen Spechte kennenzulernen. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Zoo Vivarium Darmstadt",
+            "address": "Schnampelweg",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "90101b18-50f2-4c2d-8c1c-b724ef4fd07f",
+        "dates": [
+            "09.03.2026"
+        ],
+        "time": "18:00 - 20:00 Uhr",
+        "structuredTime": {
+            "start": "18:00",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Mitgliederversammlung des NABU Darmstadt",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "33b5a5b5-52b8-4133-8823-436bf415c0e8",
+        "dates": [
+            "15.03.2026"
+        ],
+        "time": "08:00 - 10:00 Uhr",
+        "structuredTime": {
+            "start": "08:00",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Vogelstimmenwanderung für Einsteiger: Vögel im Darmstädter Osten: Fasanerie",
+        "subtitle": null,
+        "description": "Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Teffpunkt:",
+            "name": "Ecke Richard-Wagner Weg / Graupner Weg",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/1268418262"
+        }
+    },
+    {
+        "uid": "df90cb6e-aad5-47e5-973f-f90867e6d76d",
+        "dates": [
+            "16.03.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "ab3df76e-7535-4678-8c43-4f53b476476c",
+        "dates": [
+            "20.03.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Vorbild Auenverbund Wetterau - Erfolgreicher Vogelschutz mit neuen Methoden",
+        "subtitle": null,
+        "description": " Vortrag zum Bruterfolg vieler Vogelarten in der Wetterau. Ansprechpartner: Hans Günter Abt",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "7b400fea-7961-4299-b065-e25ecb6d8c2b",
+        "dates": [
+            "29.03.2026"
+        ],
+        "time": "14:00 - 16:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Frühlingswanderung rund um das Oberfeld",
+        "subtitle": null,
+        "description": "Wir erkunden Flora und Fauna an diesem beliebten Ausflugsziel. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt: ab/bis",
+            "name": "Melkhaus Oberfeld",
+            "address": "Katharinenfalltorweg, 64287 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/10171401241"
+        }
+    },
+    {
+        "uid": "17bfa7f2-2295-4384-9000-2dd8a900e123",
+        "dates": [
+            "12.04.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Araltankstelle",
+            "address": "Neckarstraße 19, 64283 Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/54818918"
+        }
+    },
+    {
+        "uid": "5b20d145-b0d1-48f1-b9bb-feaca40ee3b0",
+        "dates": [
+            "17.04.2026"
+        ],
+        "time": "20:00 - ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "20:00",
+            "end": "21:30"
+        },
+        "type": "Familie",
+        "title": "Fledermaus-Exkursion für Kinder",
+        "subtitle": "Veranstaltung im Rahmen des Umweltdiploms 2026",
+        "description": "Anmeldung erforderlich, ausschließlich beim Umweltamt Darmstadt. Leitung: Oliver Weiß, Lioba Stenner",
+        "location": null
+    },
+    {
+        "uid": "3e985222-87fd-4ee1-861c-01301a0b5cb1",
+        "dates": [
+            "19.04.2026"
+        ],
+        "time": "08:00 - ca. 11:00 Uhr",
+        "structuredTime": {
+            "start": "08:00",
+            "end": "11:00"
+        },
+        "type": "Exkursion",
+        "title": "Leben, federleicht · Wixhäuser Felder, Wald und Mörsbachaue",
+        "subtitle": null,
+        "description": "Wir wollen gemeinsam diesen vielfältigen Lebensraum erkunden und dabei Vögel beobachten, die sich dort wohlfühlen und sich uns zeigen. Dabei dürfen wir uns auch berühren lassen von der Schönheit und Besonderheit ihrer vielfältigen Ausdrucksweisen in Stimme, Gestalt und Lebensart. Ein Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Bei nasser Witterung entfällt die Exkursion zugunsten eines Ersatztermins, der auf der Webseite bekanntgegeben wird. Leitung: Philip Berreth",
+        "location": {
+            "prefix": "Treffpunkt: ab/bis",
+            "name": "Kreuzung Messeler-Park-Straße / Obere Mühlstraße („Liederkranzeck“)",
+            "address": "DA-Wixhausen",
+            "address_url": "https://www.openstreetmap.org/node/672490811"
+        }
+    },
+    {
+        "uid": "a2dc9ec7-f7e5-4ecd-acc6-5f1680a2ceaa",
+        "dates": [
+            "20.04.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "3e4eec2d-6c24-4479-8c40-ed3721ab2704",
+        "dates": [
+            "23.04.2026"
+        ],
+        "time": "18:30 - 20 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Die Grundwasser-Situation an der Bergstraße und im hessischen Ried: Ist-Zustand und zukünftige Entwicklung",
+        "subtitle": "NABU Darmstadt & NABU KV Bergstraße",
+        "description": "Ca. 70% unseres Trinkwassers stammt aus Grundwasserleitern. Regionale Firmen wie die Hessenwasser GmbH pumpen dies fortlaufend aus dem Untergrund zur Versorgung unserer südhessischen Metropolregion. Zusätzlich wird im hessischen Ried Rheinwasser infiltriert, so dass die Grundwasserstände angeblich stabil bleiben. In dem Vortrag eines ausgewiesenen Grundwasser-Experten wird auf diese Sachlage mit einem wissenschaftlichen Blick geschaut. Wie sicher ist unsere Trinkwasserversorgung? Was macht die Entnahme mit unseren Grundwasserständen? Wie problematisch ist die Verunreinigung unserer Böden und schließlich auch des Grundwassers mit Nitrat, Chemikalien und Mikroplastik? Wir schauen auf die aktuelle Lage und geben Prognosen mit entsprechenden Handlungsempfehlungen an die politischen Entscheidungsträger. Referent: Dr. Stephan Schulz, Fachgebiet Hydrogeologie, Institut für Angewandte Geowissenschaften, TU Darmstadt",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Naturschutzzentrum Bergstraße",
+            "address": "An der Erlache 17, Bensheim",
+            "address_url": "https://www.openstreetmap.org/way/4543402"
+        }
+    },
+    {
+        "uid": "ef83a668-d2f3-4298-a116-235e2757f4d5",
+        "dates": [
+            "24.04.2026"
+        ],
+        "time": "19:30 - ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "19:30",
+            "end": "21:30"
+        },
+        "type": "Exkursion",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": "Fledermaus-Exkursion am Steinbrücker Teich",
+        "description": "Diese Veranstaltung findet nur bei trockenem Wetter statt. Keine Anmeldung erforderlich.",
+        "location": {
+            "prefix": "Treffpunkt: ",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "929caf38-f5d8-4486-9c64-29c2590bca14",
+        "dates": [
+            "26.04.2026"
+        ],
+        "time": "6:30 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "06:30",
+            "end": "09:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Vogelwelt der Eberstädter Streuobstwiesen",
+        "subtitle": null,
+        "description": "Eine Vogelstimmen-Exkursion in die „Toskana“ Darmstadts. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen.",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Frankensteinschule",
+            "address": "Heinrich-Delp-Straße 189, Darmstadt-Eberstadt",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "7f4dfeaa-1d48-4238-9109-ba68cb734e4a",
+        "dates": [
+            "28.04.2026"
+        ],
+        "time": "18:30 - 20 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Neusiedler See und Seewinkel – Gefährdetes Weltkulturerbe der UNESCO",
+        "subtitle": null,
+        "description": "Vortrag zur Vielfalt von Flora und Fauna und Anzeichen der Erderwärmung im Grenzgebiet von Österreich und Ungarn. Ansprechpartner: Hans Günter Abt",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "46915d23-1b22-475e-85e4-1e837b895326",
+        "dates": [
+            "02.05.2026"
+        ],
+        "time": "Ganztägig",
+        "structuredTime": null,
+        "type": "Vortrag",
+        "title": "Birdrace 2026",
+        "subtitle": "Veranstaltung im Rahmen des DDA Birdrace 2026",
+        "description": "In verschiedenen Gruppen werden wir im Darmstädter Raum so viele Vogelarten wie möglich dokumentieren. Diese bundesweite Aktion des DDA soll auf die Bedeutung der Vogelwelt für unsere Umwelt aufmerksam machen. In diesem Rahmen bieten wir ein „Bird Race für Alle“ an: Interessierte können in Teiletappen von 8 – ca. 12 Uhr teilnehmen.",
+        "location": null
+    },
+    {
+        "uid": "33b8e08f-622d-4376-9205-3a26f8c105b3",
+        "dates": [
+            "02.05.2026"
+        ],
+        "time": "8 – ca. 11 Uhr",
+        "structuredTime": {
+            "start": "07:00",
+            "end": "11:00"
+        },
+        "type": "Vortrag",
+        "title": "Slow Race: Leben, federleicht · Vogelexkursion in Griesheimer Wiesen, Dünen und Wald",
+        "subtitle": "Veranstaltung im Rahmen des DDA Birdrace 2026",
+        "description": "Wir wollen gemeinsam diesen vielfältigen Lebensraum erkunden und dabei Vögel beobachten, die sich dort wohlfühlen und sich uns zeigen. Dabei dürfen wir uns auch berühren lassen von der Schönheit und Besonderheit ihrer vielfältigen Ausdrucksweisen in Stimme, Gestalt und Lebensart. Mit unseren Beobachtungen werden wir an diesem Tag zum DDA Bird Race beitragen, gemeinsam mit vielen anderen um Darmstadt und bundesweit. Ein Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Bei nasser Witterung entfällt die Exkursion zugunsten eines Ersatztermins, der auf der Webseite bekanntgegeben wird. Ansprechpartner: Philip Berreth",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Kreuzung",
+            "address": "Eberstädter Weg / Zufahrt Hausnr. 87 (Spargelhof Tresselt), Griesheim",
+            "address_url": "https://www.openstreetmap.org/way/213525095#map=18/49.851967/8.572844"
+        }
+    },
+    {
+        "uid": "0e1432df-0068-40db-a0c3-0150da707906",
+        "dates": [
+            "03.05.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "8853b0e0-4a41-44c3-a0c2-b08f3339799e",
+        "dates": [
+            "05.05.2026"
+        ],
+        "time": "19:30 - ca. 22:00 Uhr",
+        "structuredTime": {
+            "start": "19:30",
+            "end": "22:00"
+        },
+        "type": "Vortrag",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": null,
+        "description": "Das geheime, nächtliche Leben der Fledermäuse wird erfahrbar gemacht. Bei der Beobachtung unterschiedlicher Fledermausarten werden ihre Ultraschallrufe mit Detektoren hör- und sichtbar gemacht. Vortrag und Exkursion. Leitung: Lioba Stenner",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "3de739d2-2562-4c8f-aaba-1e016809d5f0",
+        "dates": [
+            "10.05.2026"
+        ],
+        "time": "8 – ca. 10 Uhr",
+        "structuredTime": {
+            "start": "08:00",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Vogel-Wanderung für Einsteiger",
+        "subtitle": null,
+        "description": "Wir erkunden den Ostwald an der Lichtwiese bis zu den Fischer-Teichen. Fällt aus bei Dauerregen. Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Fahrradparkplatz Zoo Vivarium Darmstadt",
+            "address": "Schnampelweg",
+            "address_url": "https://www.openstreetmap.org/node/466817268"
+        }
+    },
+    {
+        "uid": "35805fea-8560-494d-a0e9-05ff8bd1fc37",
+        "dates": [
+            "16.05.2026"
+        ],
+        "time": "14 – 16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Vortrag",
+        "title": "Naturgartenelemente – wichtig für die biologische Vielfalt",
+        "subtitle": null,
+        "description": "Exkursion in das Alnatura-Campusgelände mit Totholz-Elementen, Miniwald, Blumenwiese und Teich. Leitung: Christa Burger",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Haupteingang Alnatura am Parkplatz",
+            "address": "Eschollbrückerstraße 65, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/744176621"
+        }
+    },
+    {
+        "uid": "3914600a-384a-4217-83ea-20dbdd4cc78e",
+        "dates": [
+            "17.05.2026"
+        ],
+        "time": "7:30 - ca. 10 Uhr",
+        "structuredTime": {
+            "start": "07:30",
+            "end": "10:00"
+        },
+        "type": "Vortrag",
+        "title": "Die Vogelwelt im Darmstädter Osten: Fasanerie",
+        "subtitle": null,
+        "description": "Vogelstimmenwanderung. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Leitung: Stefan Schütz",
+        "location": {
+            "prefix": "Teffpunkt:",
+            "name": "Ecke",
+            "address": "Richard-Wagner Weg / An der alten Fasaneriemauer, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/150047235"
+        }
+    },
+    {
+        "uid": "19018653-9a79-471b-8685-aa70a554a5ec",
+        "dates": [
+            "18.05.2026"
+        ],
+        "time": "18:30 – 20.30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "3a59a56c-0482-4257-95ad-1e27e1124695",
+        "dates": [
+            "24.05.2026"
+        ],
+        "time": "7 – ca. 9 Uhr",
+        "structuredTime": {
+            "start": "07:00",
+            "end": "09:00"
+        },
+        "type": "Vortrag",
+        "title": "Die Vogelwelt an der Grube Prinz von Hessen",
+        "subtitle": null,
+        "description": "Vogelstimmenwanderung an der ehemaligen Braunkohlengrube. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Waldparkplatz an der Grube Prinz von Hessen",
+            "address": "Dieburger Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/206137955"
+        }
+    },
+    {
+        "uid": "a9e4d5d6-a0a0-49d6-b41d-94b801ecd00e",
+        "dates": [
+            "30.05.2026"
+        ],
+        "time": "13 – 16 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "16:00"
+        },
+        "type": "Familie",
+        "title": "Was wächst denn hier und kann von uns und Tieren genutzt werden",
+        "subtitle": null,
+        "description": "Wir erkunden die Pflanzen in unserer Umgebung und erfahren etwas über ihren Nutzen. Anschließend gibt es einfache Probierproben. Bitte mitbringen: Teller, Besteck, Getränk. Ansprechpartner: Christa Burger",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Menschenskinder",
+            "address": "Siemensstraße 3a, Kranichstein",
+            "address_url": "https://www.openstreetmap.org/node/11358331845#map=19/49.896983/8.678821"
+        }
+    },
+    {
+        "uid": "6ace32a1-6dd5-4f1d-a20f-f206bd82e5a3",
+        "dates": [
+            "31.05.2026"
+        ],
+        "time": "6:30 - ca. 9 Uhr",
+        "structuredTime": {
+            "start": "06:30",
+            "end": "09:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Vogelwelt der Eberstädter Streuobstwiesen",
+        "subtitle": null,
+        "description": "Eine Vogelstimmen-Exkursion in die „Toskana“ Darmstadts. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Ansprechpartner: Torsten Rossmann",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Parkplatz Mühltalschwimmbad",
+            "address": "Rebenweg",
+            "address_url": "https://www.openstreetmap.org/way/25344426"
+        }
+    },
+    {
+        "uid": "4af2dcd6-1c5d-4ca0-bd21-f872230ae239",
+        "dates": [
+            "06.06.2026"
+        ],
+        "time": "19:30 – ca. 22:30 Uhr",
+        "structuredTime": {
+            "start": "19:30",
+            "end": "22:30"
+        },
+        "type": "Exkursion",
+        "title": "Exkursion zum Aktionstag Fledermaus am Mausohrbahnhof Mümling-Grumbach",
+        "subtitle": null,
+        "description": "mit vielen Aktionen zu Fledermäusen, Live-Schaltung zur Wochenstube und Ausflugbeobachtung. Treffpunkt: 19.30 Uhr Darmstadt Ostbahnhof (gemeinsame Bahnfahrt) oder ab 20.30 Uhr am Mausohrbahnhof Mümling-Grumbach (individuelle Anreise). Ende gegen 22:30 Uhr. Bitte Anmeldung an Lioba Stenner: <a href=\"mailto:l.stenner@nabu-darmstadt.de\">l.stenner@nabu-darmstadt.de</a>",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Darmstadt Ostbahnhof (gemeinsame Bahnfahrt) oder ab 20.30 Uhr am Mausohrbahnhof Mümling-Grumbach (individuelle Anreise).",
+            "address": null,
+            "address_url": null
+        }
+    },
+    {
+        "uid": "b4277424-8181-4a4d-899d-65fccf38fb86",
+        "dates": [
+            "07.06.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "6224f5db-ef2c-4460-a199-64786ed7a9b5",
+        "dates": [
+            "14.06.2026"
+        ],
+        "time": "7 – ca. 9 Uhr",
+        "structuredTime": {
+            "start": "07:00",
+            "end": "09:00"
+        },
+        "type": "Vortrag",
+        "title": "Vögel im Darmstädter Westen: Westwald",
+        "subtitle": null,
+        "description": "Vogelstimmenexkursion und Beobachtungen zum Baumsterben. Fernglas wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Fällt aus bei Dauerregen. Ansprechpartner: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Parkplatz des Sportvereins SKV Rot-Weiß Darmstadt, Winkelschneise",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/58647058"
+        }
+    },
+    {
+        "uid": "35e11675-2fc2-4720-b17d-7671f5e60de3",
+        "dates": [
+            "15.06.2026"
+        ],
+        "time": "18:30 – 20.30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "30 – 20.30 Uhr. Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "4a08e5b6-51ca-4e72-be85-832d59ffaa48",
+        "dates": [
+            "05.07.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "0e2ccb3d-cffd-474c-9ff2-f3198482cc03",
+        "dates": [
+            "20.07.2026"
+        ],
+        "time": "18",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "30 – 20.30 Uhr. Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "09fcae79-9572-4a0b-8a78-22b35988bc5f",
+        "dates": [
+            "02.08.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "3c53c269-470b-45c1-ac04-84e205465d14",
+        "dates": [
+            "02.08.2026"
+        ],
+        "time": "10 – 16 Uhr",
+        "structuredTime": {
+            "start": "10:00",
+            "end": "16:00"
+        },
+        "type": "Vortrag",
+        "title": "Fledermaus-Stand",
+        "subtitle": null,
+        "description": "Teilnahme am Grubenfest des Besucherzentrums Grube Messel.",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "Besucherzentrum Grube Messel",
+            "address": "Grube Messel, 64409 Messel",
+            "address_url": "https://www.openstreetmap.org/node/1423015667"
+        }
+    },
+    {
+        "uid": "b0334ff0-ecb9-4a79-89e7-973ffd0248e3",
+        "dates": [
+            "16.08.2026"
+        ],
+        "time": "14 – 17 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Sommerexkursion in die Eberstädter Dünen",
+        "subtitle": null,
+        "description": "Wir erkunden die Dünenlandschaft im Eberstädter Raum, mit Schwerpunkt Ulvenbergdüne. Was wächst, wer kreucht und wer fliegt hier rum? Eine Dünenexkursion in die wärmste Region Darmstadts.",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Märchenbrunnen",
+            "address": " DA-Eberstadt, Ecke Nussbaumallee / Fritz-Dächert Weg",
+            "address_url": "https://www.openstreetmap.org/node/371687757#map=19/49.809028/8.637329"
+        }
+    },
+    {
+        "uid": "c64fa41f-1fb8-4b11-8402-b90e3661da8b",
+        "dates": [
+            "17.08.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "48d7aa36-75b6-4afe-9c17-efd5eaf5b2ff",
+        "dates": [
+            "22.08.2026"
+        ],
+        "time": "15 – 18 Uhr",
+        "structuredTime": {
+            "start": "15:00",
+            "end": "18:00"
+        },
+        "type": "Vortrag",
+        "title": "Natur-„Paradiese“ aus Menschenhand: Sandabbau und Naturschutzgebiet.",
+        "subtitle": null,
+        "description": "Eine Exkursion in die Seenlandschaft am Naturschutzzentrum Bergstraße mit Werksbesichtigung des Kieswerks Rohr. Wie viele der Seen entlang der großen Fernstraßen im Oberrheingraben sind auch die Seen in der Erlache auf Bensheimer Gebiet künstlichen Ursprungs. Die besondere geologische Situation des Untergrunds ermöglicht Sand- und Kiesabbau, was zu der Seenbildung führte. Hier entwickelten sich in der Folge sowohl natürlich als auch mit Unterstützung von aktiven Naturschützern wertvolle Biotope, quasi aus zweiter Hand. Wir erkunden diese Bereiche, hören etwas zur Geologie und beobachten die sommerliche Fauna und Flora. Mit einem Schwerpunkt auf Vögel. Mit etwas Glück hören wir noch die selten gewordene Grauammer, die seit einigen Jahren dort auch brütet. Die Werksbesichtigung bei dem Kieswerk Rohr rundet unseren naturkundlichen Spaziergang ab. Das Mitbringen eines Fernglases wird empfohlen und kann bei Bedarf vor Ort ausgeliehen werden. Stabiles Schuhwerk ist notwendig. Leitung: Torsten Rossmann",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Naturschutzzentrum Bergstraße",
+            "address": "An der Erlache 17, Bensheim",
+            "address_url": "https://www.openstreetmap.org/way/4543402"
+        }
+    },
+    {
+        "uid": "506e99fc-8caa-4538-936c-db1a16f55114",
+        "dates": [
+            "28.08.2026"
+        ],
+        "time": "19:30 – ca. 21:30 Uhr",
+        "structuredTime": {
+            "start": "19:30",
+            "end": "21:30"
+        },
+        "type": "Vortrag",
+        "title": "Flugkünstler der Nacht erleben",
+        "subtitle": null,
+        "description": "Das geheime, nächtliche Leben der Fledermäuse wird erfahrbar gemacht. Wie orientieren sie sich in der Nacht? Was fressen sie? Bei der Beobachtung unterschiedlicher Fledermausarten werden ihre Ultraschallrufe mit Detektoren hör- und sichtbar gemacht. Anmeldung nicht erforderlich. Leitung: Lioba Stenner und Oliver Weiß",
+        "location": {
+            "prefix": "Ab/bis",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317"
+        }
+    },
+    {
+        "uid": "d2c87d82-a331-43c8-b471-b55a41eab1c6",
+        "dates": [
+            "06.09.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "38d28ed4-553e-4ea1-b1a7-0bc4ae4ac743",
+        "dates": [
+            "20.09.2026"
+        ],
+        "time": "13:00 - 16:00 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "16:00"
+        },
+        "type": "Familie",
+        "title": "Das große Aufräumen: Aktionen in Darmstadt zum Internationalen World Clean-up Day",
+        "subtitle": null,
+        "description": "Menschen hinterlassen Spuren in ihrer Umwelt. Leider gehört auch Müll dazu, große und kleine Teile. Die Problematik des Mikroplastiks beginnen wir gerade zu erahnen. Daher bedeutet aktiver Umwelt- und Naturschutz auch Strategien zu entwickeln, Müll zu verhindern. Am 20.09.2026 findet weltweit der „World Clean-up day“ statt. Bisher haben sich über 114 Millionen Menschen in über 211 Ländern an der Aktion beteiligt und durch Cleanups (Müllsammelaktionen) ein starkes Zeichen für eine saubere, gesunde und müllfreie Welt gesetzt. Ganz praktisch lädt der NABU Darmstadt mit der Projektgruppe „Clean Our Planet Dude/ines“ zum Müllsammeln ein. In Darmstadt werden, mit Unterstützung des EAD, an diesem Tag von 13:00 - 16:00 in mehreren Gruppen Stadtteile auf der Suche nach Müll durchkämmt. Startpunkte sind z.B. die Kreuzung Ludwigshöhstraße/Granitstraße, am Nordbad und im Herrngarten. Müllgreifer und Säcke werden gestellt. Eine Anmeldung ist nicht erforderlich.",
+        "location": {
+            "prefix": "Ort: ",
+            "name": "verschiedene Treffpunkte in Darmstadt",
+            "address": null,
+            "address_url": null
+        }
+    },
+    {
+        "uid": "cdb41d2d-0dab-4c88-87ce-fcc0d802e0b9",
+        "dates": [
+            "21.09.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "30 – 20.30 Uhr. Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "8d799cc4-7cfa-47e2-ac7d-1c46576d7686",
+        "dates": [
+            "26.09.2026"
+        ],
+        "time": "13 - 16 Uhr",
+        "structuredTime": {
+            "start": "13:00",
+            "end": "16:00"
+        },
+        "type": "Exkursion",
+        "title": "Naturkundliche Herbstwanderung auf dem Oberfeld: Wichtige Sträucher und Bäume für uns und die Tiere. Leitung: Christa Burger",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Bushaltestelle Hofgut Oberfeld",
+            "address": "Erbacher Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/4724358645"
+        }
+    },
+    {
+        "uid": "fd87bdda-6206-475a-afb7-dc3dedf62876",
+        "dates": [
+            "04.10.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "36eb3a2b-9ba6-440a-b032-f16d98d2f680",
+        "dates": [
+            "19.10.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "7cdc866a-b203-4cea-92f3-02614c7c07be",
+        "dates": [
+            "20.10.2026"
+        ],
+        "time": "18:180 - 20:00 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:00"
+        },
+        "type": "Vortrag",
+        "title": "Problem Mikroplastik: Unsere Böden und ihre Rolle im Plastikzeitalter.",
+        "subtitle": "Gemeinsame Veranstaltung mit dem BUND Darmstadt",
+        "description": "Referent: Dr. Collin Weber, Institut für Angewandte Geowissenschaften, TU Darmstadt.",
+        "location": {
+            "prefix": "Treffpunkt / Hybrid (Online-Teilnahme möglich):",
+            "name": "Zentrum für Stadtnatur, Klappacher Straße 27, Orangerie Darmstadt",
+            "address": null,
+            "address_url": null
+        }
+    },
+    {
+        "uid": "93d6d9d9-0eed-46a9-8297-12d8f9192f33",
+        "dates": [
+            "01.11.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "b6407ec7-cd10-4032-856c-c76341c753c8",
+        "dates": [
+            "07.11.2026"
+        ],
+        "time": "14-16 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "16:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Wir wollen unseren Amphibienzaun und unser Ersatzgewässer von Sträuchern freischneiden. Fragen bei unklaren Witterungsverhältnissen und Anmeldung an: <a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>",
+        "location": null
+    },
+    {
+        "uid": "b32fa79e-caf9-4a8d-9205-fc906636aa45",
+        "dates": [
+            "16.11.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Vortrag",
+        "title": "Öffentliche Vorstandssitzung",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "667433d3-f2be-4eb2-96e0-aa9946bac359",
+        "dates": [
+            "06.12.2026"
+        ],
+        "time": "14:00 - ca. 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "location": null
+    },
+    {
+        "uid": "7f38745f-1ff0-4762-84ef-03fea3399a5f",
+        "dates": [
+            "21.12.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Familie",
+        "title": "Weihnachtsfeier",
+        "subtitle": null,
+        "description": null,
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    }
+]
