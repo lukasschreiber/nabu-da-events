@@ -615,9 +615,9 @@
         "dates": [
             "09.05.2026"
         ],
-        "time": "17:00 Uhr",
+        "time": "09:00 - 17:00 Uhr",
         "structuredTime": {
-            "start": "",
+            "start": "09:00",
             "end": "17:00"
         },
         "type": "Familie",
