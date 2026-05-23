@@ -58,6 +58,22 @@
         }
     },
     {
+        "uid": "1bd84f40-5669-427c-b3d2-fed176b4c8eb",
+        "dates": [
+            "14.11.2026"
+        ],
+        "time": "11:00 - 14:00 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": "14:00"
+        },
+        "type": "Familie",
+        "title": "Kinder bauen „Nistkästen für Vögel“",
+        "subtitle": "Ein Angebot des NABU-Darmstadts und Menschenskindern",
+        "description": "<p>Hast du Lust etwas für Tiere zu bauen und etwas über sie zu lernen? Wir überlegen zusammen wie Vögel über den Winter kommen. Wo wohnen sie, was essen sie?</p><p>Danach kannst du allein oder mit Deinen Eltern aus vorgefertigten Teilen Nistkästen für Vögel bauen. Diese kannst du dann kreativ gestalten wie bemalen oder mit Naturprodukten verzieren. Du kannst sie danach auch gerne mitnehmen und in deiner Umgebung aufhängen. So kannst du die Vögel auch das ganze Jahr beobachten.</p><p></p><p>Bitte bis 02.11.2026 anmelden, Plätze sind limitiert. Kinder unter 10 Jahren müssen von einer erwachsenen Person begleitet werden.</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2\" href=\"mailto:projekt@menschenskinder-darmstadt.de\">projekt@menschenskinder-darmstadt.de</a></p><p>Tel.: 06151 3604595</p>",
+        "location": null
+    },
+    {
         "uid": "b6407ec7-cd10-4032-856c-c76341c753c8",
         "dates": [
             "07.11.2026"
@@ -130,6 +146,22 @@
             "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
             "address_url": "https://www.openstreetmap.org/way/175406016"
         }
+    },
+    {
+        "uid": "23ef693e-0f26-4369-a646-7678be81c9a5",
+        "dates": [
+            "17.10.2026"
+        ],
+        "time": "11:00 - 02:00 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": "02:00"
+        },
+        "type": "Familie",
+        "title": "Hagebutten: „Schätze für uns und Tiere“",
+        "subtitle": "Ein Angebot des NABU-Darmstadts und Menschenskindern",
+        "description": "<p>Wir lernen wie nützlich die Wildrose mit ihren Hagebutten für uns und für die Tiere ist. Zusammen sammeln die ein paar Früchte und erfahren wie wir diese verwenden können und wer sich sonst noch an ihnen erfreut. Wir basteln Hagebuttenmännchen, machen zusammen Hagebuttenmus und lassen uns etwas davon in mehreren Versionen zusammen schmecken. Du kannst allein oder mit Deinen Eltern an der Aktion teilnehmen.</p><p></p><p>Bitte bis 12. Oktober 2026 anmelden, Plätze sind limitiert. Kinder unter 10 Jahren müssen von einer erwachsenen Person begleitet werden.</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2\" href=\"mailto:projekt@menschenskinder-darmstadt.de\">projekt@menschenskinder-darmstadt.de</a></p><p>Tel.: 06151 3604595</p>",
+        "location": null
     },
     {
         "uid": "fd87bdda-6206-475a-afb7-dc3dedf62876",
@@ -431,7 +463,7 @@
         "dates": [
             "07.06.2026"
         ],
-        "time": "14:00 - ca. 17:00 Uhr",
+        "time": "14:00 - 17:00 Uhr",
         "structuredTime": {
             "start": "14:00",
             "end": "17:00"
@@ -439,8 +471,13 @@
         "type": "Arbeitseinsatz",
         "title": "Müllsammeln mit dem NABU Darmstadt",
         "subtitle": "Aktion Clean Our Planet Dude/ines",
-        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
-        "location": null
+        "description": "<p>Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald</p>",
+        "location": {
+            "prefix": "Treffpunkt:",
+            "name": "Bushaltestelle Oberwaldhaus",
+            "address": "Steinbrücker Teich, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/333374317#map=19/49.890421/8.697153"
+        }
     },
     {
         "uid": "4af2dcd6-1c5d-4ca0-bd21-f872230ae239",
