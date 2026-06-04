@@ -480,6 +480,27 @@
         }
     },
     {
+        "uid": "acbe7458-bbc1-491e-9172-cca4ca950464",
+        "dates": [
+            "07.06.2026"
+        ],
+        "time": "07:00 - 10:00 Uhr",
+        "structuredTime": {
+            "start": "07:00",
+            "end": "10:00"
+        },
+        "type": "Exkursion",
+        "title": "Die Vogelwelt der Griesheimer Wiesen, Dünen und Wald",
+        "subtitle": null,
+        "description": "<p>Vogelstimmenexkursion am Naturschutzgebiet August-Euler-Flugplatz und Griesheimer Düne</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Kreuzung Lindenstraße / Südring",
+            "address": "Griesheim",
+            "address_url": null
+        }
+    },
+    {
         "uid": "4af2dcd6-1c5d-4ca0-bd21-f872230ae239",
         "dates": [
             "06.06.2026"
