@@ -211,7 +211,7 @@
             "end": "20:30"
         },
         "type": "Vortrag",
-        "title": "30 – 20.30 Uhr. Öffentliche Vorstandssitzung",
+        "title": "Öffentliche Vorstandssitzung",
         "subtitle": null,
         "description": null,
         "location": {
@@ -384,13 +384,13 @@
         "dates": [
             "20.07.2026"
         ],
-        "time": "18",
+        "time": "18:30 - 20:30 Uhr",
         "structuredTime": {
             "start": "18:30",
             "end": "20:30"
         },
         "type": "Vortrag",
-        "title": "30 – 20.30 Uhr. Öffentliche Vorstandssitzung",
+        "title": "Öffentliche Vorstandssitzung",
         "subtitle": null,
         "description": null,
         "location": {
@@ -405,16 +405,37 @@
         "dates": [
             "05.07.2026"
         ],
-        "time": "14:00 - ca. 17:00 Uhr",
+        "time": "14:00 - 17:00 Uhr",
         "structuredTime": {
             "start": "14:00",
             "end": "17:00"
         },
         "type": "Arbeitseinsatz",
-        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "title": "ENTFÄLLT - Müllsammeln mit dem NABU Darmstadt",
         "subtitle": "Aktion Clean Our Planet Dude/ines",
-        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
+        "description": "<p>Wir machen Sommerpause, im Juli findet keine Müllsammelaktion statt.</p>",
         "location": null
+    },
+    {
+        "uid": "7e7879be-ab2d-4aa6-896c-74b270546410",
+        "dates": [
+            "26.06.2026"
+        ],
+        "time": "19:00 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "19:00",
+            "end": "20:30"
+        },
+        "type": "Familie",
+        "title": "Elterninformationsabend NAJU Laubfroschgruppe",
+        "subtitle": null,
+        "description": "<p>Die Naturschutzjugend (NAJU) Darmstadt gründet nach den Sommerferien eine neue Kindergruppe: die „Laubfrosch“-Gruppe. Eingeladen sind alle Kinder im Grundschulalter, die Freude daran haben, die Natur zu entdecken, zu erforschen und kreativ zu gestalten.</p><p>In den regelmäßigen Gruppenstunden lernen die Kinder Tiere und Pflanzen kennen, beobachten die Natur, führen kleine Experimente durch, basteln mit Naturmaterialien und erfahren spielerisch mehr über die heimische Tier- und Pflanzenwelt. Die Treffen finden ganzjährig außerhalb der Schulferien jeden zweiten Dienstag von 15:00 bis 16:30 Uhr im Zentrum für Stadtnatur in der Orangerie statt. Der erste Gruppentermin ist am 18. August.</p><p>Für interessierte Eltern findet am Freitag, den 26. Juni, um 19 Uhr ein Informationsabend im Zentrum für Stadtnatur statt. Dort stellen die Gruppenleiterinnen Miriam und Julia die neue Gruppe und das geplante Programm vor, beantworten Fragen und informieren über die Teilnahme. Der Elternabend dauert etwa 90 Minuten. Eine Anmeldung zum Informationsabend ist nicht erforderlich.</p><p>Die Teilnahme an der Gruppe ist kostenlos. Voraussetzung ist lediglich eine NABU-Mitgliedschaft des Kindes. Die Zahl der Plätze ist zunächst auf zwölf Kinder begrenzt.</p><p>Weiterhin bietet der NABU Darmstadt, unabhängig von der Kindergruppe, für die Sommerferien besondere Naturaktionen und Exkursionen an. Dazu gehören beispielsweise Ausflüge zur Streuobstwiese in Eberstadt, Naturerkundungen an Bach und Teich sowie weitere spannende Angebote zum Beobachten, Forschen und Entdecken. Nähere Informationen hierzu werden rechtzeitig auf der Website veröffentlicht.</p><p>Fragen können an <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2\" href=\"mailto:naju@nabu-darmstadt.de\">naju@nabu-darmstadt.de</a> gerichtet werden.</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
     },
     {
         "uid": "35e11675-2fc2-4720-b17d-7671f5e60de3",
