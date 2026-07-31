@@ -347,7 +347,7 @@
         "dates": [
             "02.08.2026"
         ],
-        "time": "14:00 - ca. 17:00 Uhr",
+        "time": "14:00 - 17:00 Uhr",
         "structuredTime": {
             "start": "14:00",
             "end": "17:00"
@@ -355,8 +355,13 @@
         "type": "Arbeitseinsatz",
         "title": "Müllsammeln mit dem NABU Darmstadt",
         "subtitle": "Aktion Clean Our Planet Dude/ines",
-        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
-        "location": null
+        "description": "<p>Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Herrngarten",
+            "address": "Musikpavillon gegenüber des Herrngartencafes",
+            "address_url": "https://www.openstreetmap.org/way/359450429"
+        }
     },
     {
         "uid": "3c53c269-470b-45c1-ac04-84e205465d14",
