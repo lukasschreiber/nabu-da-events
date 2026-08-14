@@ -259,6 +259,27 @@
         "location": null
     },
     {
+        "uid": "ef03c185-72c1-4b08-9750-614f5dc9e436",
+        "dates": [
+            "30.08.2026"
+        ],
+        "time": "14:00 - 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Clean Up Bessungen",
+        "subtitle": "Gemeinsame Aktion mit den Grünen Bessungen, BUND und Greenpeace",
+        "description": "<p>Egal wo wir sind, überall begegnet uns achtlos weggeworfener Müll. Das sieht nicht<br>nur hässlich aus, sondern schadet auch der Umwelt! Vielleicht nicht so auffällig,<br>aber genauso schlimm sind weggeschnippte Zigarettenkippen. Geschätzt zwei<br>Drittel aller gerauchten Zigaretten weltweit landen nicht im Aschenbecher sondern<br>auf dem Boden, das macht in Summe etwa 4,5 Billionen Kippen pro Jahr.</p><p>Das ist eine immense Belastung für die Umwelt: Nikotin und andere Giftstoffe werden vom Regen ausgewaschen und gelangen in den Wasserkreislauf – so verseucht nur eine einzige Kippe eine riesige Menge Wasser und vergiftet damit den Lebensraum für<br>Wasserlebewesen. Tiere können eine Zigarettenstummel für Nahrung halten und so Gifte in sich aufnehmen, und der aus Kunststoff bestehende Filter löst sich mit der Zeit in kleine Partikel auf und trägt so Mikroplastik in die Umwelt ein.</p><p><strong>Aber Du kannst ein Zeichen gegen Vermüllung und Vergiftung setzen und<br>mitmachen: Kippen sammeln – Stadtnatur schützen.</strong></p><p>Wir treffen uns am 30.08.2026 um 14:00 am BUND Zentrum für Stadtnatur,<br>Klappacher Str. 27 (Orangerie), zum Müll- und vor allem zum Kippensammeln.</p><p>Ab 16:00 gibt es im BUND-Zentrum einen gemeinsamen Abschluss mit Kuchen,<br>Getränken, Gesprächen und einem Infostand.</p><p>Anmeldung ist nicht nötig; Material zum Sammeln wird gestellt.</p><p>BÜNDNIS 90/DIE GRÜNEN Bessungen,&nbsp; NABU Darmstadt,&nbsp; BUND Darmstadt und<br>Greenpeace Darmstadt als Gast freuen sich auf Euch.</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
         "uid": "506e99fc-8caa-4538-936c-db1a16f55114",
         "dates": [
             "28.08.2026"
