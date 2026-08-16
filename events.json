@@ -235,12 +235,7 @@
         "title": "Das große Aufräumen: Aktionen in Darmstadt zum Internationalen World Clean-up Day",
         "subtitle": null,
         "description": "Menschen hinterlassen Spuren in ihrer Umwelt. Leider gehört auch Müll dazu, große und kleine Teile. Die Problematik des Mikroplastiks beginnen wir gerade zu erahnen. Daher bedeutet aktiver Umwelt- und Naturschutz auch Strategien zu entwickeln, Müll zu verhindern. Am 20.09.2026 findet weltweit der „World Clean-up day“ statt. Bisher haben sich über 114 Millionen Menschen in über 211 Ländern an der Aktion beteiligt und durch Cleanups (Müllsammelaktionen) ein starkes Zeichen für eine saubere, gesunde und müllfreie Welt gesetzt. Ganz praktisch lädt der NABU Darmstadt mit der Projektgruppe „Clean Our Planet Dude/ines“ zum Müllsammeln ein. In Darmstadt werden, mit Unterstützung des EAD, an diesem Tag von 13:00 - 16:00 in mehreren Gruppen Stadtteile auf der Suche nach Müll durchkämmt. Startpunkte sind z.B. die Kreuzung Ludwigshöhstraße/Granitstraße, am Nordbad und im Herrngarten. Müllgreifer und Säcke werden gestellt. Eine Anmeldung ist nicht erforderlich.",
-        "location": {
-            "prefix": "Ort: ",
-            "name": "verschiedene Treffpunkte in Darmstadt",
-            "address": null,
-            "address_url": null
-        }
+        "location": null
     },
     {
         "uid": "d2c87d82-a331-43c8-b471-b55a41eab1c6",
