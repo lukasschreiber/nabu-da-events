@@ -189,7 +189,7 @@
         "dates": [
             "04.10.2026"
         ],
-        "time": "14:00 - ca. 17:00 Uhr",
+        "time": "14:00 - 17:00 Uhr",
         "structuredTime": {
             "start": "14:00",
             "end": "17:00"
@@ -197,8 +197,13 @@
         "type": "Arbeitseinsatz",
         "title": "Müllsammeln mit dem NABU Darmstadt",
         "subtitle": "Aktion Clean Our Planet Dude/ines",
-        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
-        "location": null
+        "description": "<p>Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Haltestelle Marienhöhe",
+            "address": "Heidelberger Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/901795264"
+        }
     },
     {
         "uid": "8d799cc4-7cfa-47e2-ac7d-1c46576d7686",
