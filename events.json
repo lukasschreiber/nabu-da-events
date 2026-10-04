@@ -74,6 +74,27 @@
         "location": null
     },
     {
+        "uid": "93d6d9d9-0eed-46a9-8297-12d8f9192f33",
+        "dates": [
+            "08.11.2026"
+        ],
+        "time": "14:00 - 17:00 Uhr",
+        "structuredTime": {
+            "start": "14:00",
+            "end": "17:00"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Müllsammeln mit dem NABU Darmstadt",
+        "subtitle": "Aktion Clean Our Planet Dude/ines",
+        "description": "<p>Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Leitung: Donald</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Bushaltestelle Nordbahnhof",
+            "address": "Frankfurter Straße, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/node/5314638021"
+        }
+    },
+    {
         "uid": "b6407ec7-cd10-4032-856c-c76341c753c8",
         "dates": [
             "07.11.2026"
@@ -87,22 +108,6 @@
         "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
         "subtitle": null,
         "description": "Wir wollen unseren Amphibienzaun und unser Ersatzgewässer von Sträuchern freischneiden. Fragen bei unklaren Witterungsverhältnissen und Anmeldung an: <a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>",
-        "location": null
-    },
-    {
-        "uid": "93d6d9d9-0eed-46a9-8297-12d8f9192f33",
-        "dates": [
-            "01.11.2026"
-        ],
-        "time": "14:00 - ca. 17:00 Uhr",
-        "structuredTime": {
-            "start": "14:00",
-            "end": "17:00"
-        },
-        "type": "Arbeitseinsatz",
-        "title": "Müllsammeln mit dem NABU Darmstadt",
-        "subtitle": "Aktion Clean Our Planet Dude/ines",
-        "description": "Der NABU Darmstadt lädt zu einem gemeinsamen Müllsammelaktion im Rahmen der Projektgruppe „Clean Our Planet Dude/ines“ ein. Müllgreifer und Säcke werden gestellt. Anmeldung nicht erforderlich. Der Ort wird rechtzeitig bekannt gegeben. Leitung: Donald",
         "location": null
     },
     {
