@@ -115,15 +115,15 @@
         "dates": [
             "20.10.2026"
         ],
-        "time": "18:180 - 20:00 Uhr",
+        "time": "18:30 - 20:00 Uhr",
         "structuredTime": {
             "start": "18:30",
             "end": "20:00"
         },
         "type": "Vortrag",
-        "title": "Problem Mikroplastik: Unsere Böden und ihre Rolle im Plastikzeitalter.",
+        "title": "VERSCHOBEN - Problem Mikroplastik: Unsere Böden und ihre Rolle im Plastikzeitalter.",
         "subtitle": "Gemeinsame Veranstaltung mit dem BUND Darmstadt",
-        "description": "Referent: Dr. Collin Weber, Institut für Angewandte Geowissenschaften, TU Darmstadt.",
+        "description": "<p>Der Termin wird verschoben, der neue Termin wird hier in Kürze bekannt gegeben (alter Termin 20.10.2026)</p><p></p><p>Referent: Dr. Collin Weber, Institut für Angewandte Geowissenschaften, TU Darmstadt.</p>",
         "location": {
             "prefix": "Treffpunkt / Hybrid (Online-Teilnahme möglich):",
             "name": "Zentrum für Stadtnatur, Klappacher Straße 27, Orangerie Darmstadt",
