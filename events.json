@@ -37,6 +37,48 @@
         "location": null
     },
     {
+        "uid": "9f96ee12-dcdc-4cab-ad3f-bdb7222af0df",
+        "dates": [
+            "28.11.2026"
+        ],
+        "time": "11:00 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": ""
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Wir wollen unseren Amphibienzaun und unser Ersatzgewässer von Sträuchern freischneiden. Fragen bei unklaren Witterungsverhältnissen und Anmeldung an: <a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Steinbrücker Teich",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/?mlat=49.890637&mlon=8.6998161#map=18/49.890637/8.6998161"
+        }
+    },
+    {
+        "uid": "5d31c90c-e57a-422a-9693-fd5d2d11a336",
+        "dates": [
+            "19.11.2026"
+        ],
+        "time": "18:30 - 20:30 Uhr",
+        "structuredTime": {
+            "start": "18:30",
+            "end": "20:30"
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Die Darmstädter Vogelwelt – Beobachtungen 2026",
+        "subtitle": null,
+        "description": "<p>Im Raum Darmstadt kommen bis zu 120 Vogelarten vor. Diese sind natürlich nicht alle zur gleichen Zeit an einer Stelle zu finden. Manche bleiben das ganze Jahr bei uns wie Amsel, Rotkehlchen und Mäusebussard. Andere fliegen tausende Kilometer, um von deren Winterlebensraum zur Brutzeit im Frühjahr in unsere Region zurückzukehren. Dazu gehören z.B. der Gartenrotschwanz, die Mauersegler, der exotisch wirkende Wiedehopf und die Rohrweihe. Daneben gibt es noch die seltenen Durchzügler, die sich (noch) nicht länger bei uns aufhalten und lediglich mal einen kurzen Zwischenstopp einlegen, wie z.B. Fischadler, Kranich und Mittelmeermöwe. Und dann haben wir die ehemaligen Exoten, die das wärmer werdende Gesamtklima in Darmstadt richtig gemütlich finden: z.B. Nilgans, Kanadagans und Halsbandsittich.</p><p>Vorgestellt werden die Ergebnisse von Begehungen und Kartierungen des NABU Darmstadt für 2026 im Raum Darmstadt. Lebensräume, Ökologie und Biologie unserer Vögel werden genauso dargestellt, wie Gefahren und bedenkliche Trends in der Bestandsentwicklung der beobachteten Vögel. Die Besucher können dabei interaktiv das Vortragsprogramm mitgestalten.</p>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Zentrum für Stadtnatur",
+            "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
+            "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
         "uid": "b32fa79e-caf9-4a8d-9205-fc906636aa45",
         "dates": [
             "16.11.2026"
@@ -55,6 +97,27 @@
             "name": "Zentrum für Stadtnatur",
             "address": "Orangerie Darmstadt, Klappacher Straße 27, Darmstadt",
             "address_url": "https://www.openstreetmap.org/way/175406016"
+        }
+    },
+    {
+        "uid": "b6407ec7-cd10-4032-856c-c76341c753c8",
+        "dates": [
+            "15.11.2026"
+        ],
+        "time": "11:00 Uhr",
+        "structuredTime": {
+            "start": "11:00",
+            "end": ""
+        },
+        "type": "Arbeitseinsatz",
+        "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
+        "subtitle": null,
+        "description": "Wir wollen unseren Amphibienzaun und unser Ersatzgewässer von Sträuchern freischneiden. Fragen bei unklaren Witterungsverhältnissen und Anmeldung an: <a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>",
+        "location": {
+            "prefix": "Ort:",
+            "name": "Steinbrücker Teich",
+            "address": "Darmstadt",
+            "address_url": "https://www.openstreetmap.org/?mlat=49.890637&mlon=8.6998161#map=18/49.890637/8.6998161"
         }
     },
     {
@@ -93,22 +156,6 @@
             "address": "Frankfurter Straße, Darmstadt",
             "address_url": "https://www.openstreetmap.org/node/5314638021"
         }
-    },
-    {
-        "uid": "b6407ec7-cd10-4032-856c-c76341c753c8",
-        "dates": [
-            "07.11.2026"
-        ],
-        "time": "14-16 Uhr",
-        "structuredTime": {
-            "start": "14:00",
-            "end": "16:00"
-        },
-        "type": "Arbeitseinsatz",
-        "title": "Arbeitseinsatz an der Amphibienanlage Steinbrücker Teich",
-        "subtitle": null,
-        "description": "Wir wollen unseren Amphibienzaun und unser Ersatzgewässer von Sträuchern freischneiden. Fragen bei unklaren Witterungsverhältnissen und Anmeldung an: <a href=\"mailto:amphibien@nabu-darmstadt.de\">amphibien@nabu-darmstadt.de</a>",
-        "location": null
     },
     {
         "uid": "7cdc866a-b203-4cea-92f3-02614c7c07be",
